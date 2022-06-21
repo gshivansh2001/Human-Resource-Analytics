@@ -1,0 +1,1035 @@
+,employee_id,department,region,education,gender,recruitment_channel,no_of_trainings,age,previous_year_rating,length_of_service,KPIs_met >80%,awards_won?,avg_training_score
+49,3720,Sales & Marketing,region_2,0,m,sourcing,1,36,5.0,4,1,0,49
+67,26977,Operations,region_2,0,m,sourcing,1,28,3.0,3,0,0,59
+89,2347,Analytics,region_15,0,m,other,2,37,5.0,8,1,0,82
+127,42719,Analytics,region_21,0,m,sourcing,1,27,,1,0,0,80
+138,2721,Analytics,region_22,0,f,sourcing,2,26,5.0,3,1,0,86
+142,3203,Sales & Marketing,region_2,0,m,sourcing,1,37,4.0,4,0,0,50
+168,26788,Sales & Marketing,region_26,0,m,sourcing,1,40,1.0,8,0,0,51
+216,56772,Sales & Marketing,region_22,0,m,other,2,23,,1,1,0,53
+256,14778,Analytics,region_22,0,m,other,1,29,5.0,2,1,0,84
+296,65459,Operations,region_27,0,m,other,1,26,,1,1,0,56
+356,63354,Technology,region_2,0,f,other,1,56,3.0,12,0,0,79
+382,12723,Sales & Marketing,region_27,0,m,sourcing,1,23,,1,0,0,50
+388,43657,Sales & Marketing,region_26,0,m,other,1,24,4.0,3,0,0,50
+393,52076,Sales & Marketing,region_15,0,m,sourcing,1,45,1.0,14,0,0,55
+416,18612,Sales & Marketing,region_22,0,m,other,1,26,,1,0,0,48
+489,74667,Sales & Marketing,region_2,0,f,sourcing,1,36,3.0,7,0,0,49
+495,38917,Sales & Marketing,region_1,0,m,other,1,28,4.0,5,0,0,49
+518,50037,Analytics,region_2,0,m,other,1,28,1.0,3,0,0,82
+542,53303,Operations,region_2,0,f,sourcing,1,58,4.0,5,1,0,64
+571,64996,Analytics,region_22,0,m,sourcing,1,27,3.0,3,1,0,84
+637,23708,Sales & Marketing,region_26,0,m,sourcing,3,32,2.0,8,0,0,49
+685,58769,Sales & Marketing,region_1,0,m,other,1,27,3.0,6,1,0,53
+731,65943,Sales & Marketing,region_25,0,m,other,1,26,,1,1,0,55
+743,16986,Finance,region_2,0,m,other,1,34,3.0,6,0,0,62
+753,24677,Sales & Marketing,region_31,0,m,other,1,27,5.0,2,1,0,47
+789,3994,Sales & Marketing,region_16,0,m,other,1,23,,1,0,0,50
+791,21572,Sales & Marketing,region_2,0,f,other,1,34,4.0,3,0,0,51
+800,3570,Operations,region_22,0,m,other,1,26,4.0,4,0,0,63
+810,33835,Sales & Marketing,region_2,0,m,other,1,37,1.0,9,0,0,50
+821,42042,Technology,region_22,0,m,other,1,29,,1,0,0,75
+834,1749,Technology,region_2,0,m,other,2,34,3.0,6,1,0,85
+842,54053,Finance,region_2,0,f,sourcing,1,39,3.0,13,0,0,65
+851,31515,Sales & Marketing,region_2,0,m,other,2,30,3.0,4,0,0,45
+897,2425,Sales & Marketing,region_26,0,m,other,1,29,3.0,4,0,0,55
+927,53176,Technology,region_2,0,m,sourcing,1,41,3.0,12,0,0,80
+945,30353,Operations,region_2,0,m,other,2,35,3.0,5,0,0,55
+1024,983,Sales & Marketing,region_22,0,m,sourcing,1,26,,1,0,0,50
+1059,75683,Sales & Marketing,region_19,0,m,other,1,39,3.0,3,0,0,53
+1064,58375,Sales & Marketing,region_14,0,m,other,1,24,,1,1,0,46
+1075,5139,Sales & Marketing,region_26,0,m,sourcing,1,27,2.0,3,1,0,48
+1092,49647,Sales & Marketing,region_31,0,m,sourcing,1,34,4.0,7,0,0,51
+1093,49618,Analytics,region_31,0,m,sourcing,1,32,3.0,5,0,0,83
+1096,51408,Sales & Marketing,region_2,0,f,other,2,23,,1,1,0,51
+1104,77167,Sales & Marketing,region_2,0,m,other,1,39,2.0,14,0,0,47
+1109,55269,Operations,region_32,0,m,other,1,30,5.0,6,0,0,58
+1116,65121,Sales & Marketing,region_29,0,f,sourcing,1,28,1.0,1,0,0,48
+1174,15563,Sales & Marketing,region_7,0,m,other,1,38,3.0,7,0,0,51
+1176,55993,Operations,region_22,0,m,sourcing,1,27,4.0,3,0,0,60
+1177,56380,Sales & Marketing,region_2,0,m,sourcing,1,42,3.0,14,0,0,46
+1183,42628,Sales & Marketing,region_2,0,m,sourcing,1,22,2.0,2,0,0,47
+1185,45424,Sales & Marketing,region_2,0,m,sourcing,1,25,,1,0,0,49
+1194,17454,Sales & Marketing,region_2,0,m,other,1,34,3.0,4,0,0,48
+1205,69439,Procurement,region_2,0,f,other,1,47,4.0,15,0,0,72
+1229,53041,Operations,region_15,0,m,other,1,30,4.0,2,1,0,64
+1230,11480,Sales & Marketing,region_21,0,m,sourcing,1,33,3.0,7,0,0,49
+1288,54593,Analytics,region_22,0,f,sourcing,1,29,1.0,2,0,0,86
+1290,43696,Sales & Marketing,region_2,0,f,sourcing,1,33,1.0,6,1,0,49
+1325,10260,Sales & Marketing,region_32,0,m,other,1,28,1.0,5,0,0,47
+1339,75283,Sales & Marketing,region_19,0,m,sourcing,1,34,3.0,6,0,0,49
+1367,27757,Sales & Marketing,region_2,0,m,other,2,34,3.0,6,0,0,51
+1401,61900,Sales & Marketing,region_15,0,m,other,1,23,,1,0,0,49
+1404,76994,Sales & Marketing,region_2,0,m,other,2,27,4.0,2,1,0,48
+1406,59193,Sales & Marketing,region_26,0,m,other,1,26,,1,0,0,48
+1475,37528,Sales & Marketing,region_1,0,m,sourcing,1,29,2.0,5,0,0,47
+1504,44489,Sales & Marketing,region_9,0,m,other,1,23,,1,0,0,56
+1508,60654,Sales & Marketing,region_6,0,m,other,1,30,5.0,5,1,0,47
+1514,34431,Sales & Marketing,region_2,0,m,other,1,22,,1,0,0,51
+1529,12811,Sales & Marketing,region_15,0,m,other,1,32,1.0,2,0,0,47
+1533,700,Analytics,region_22,0,m,other,1,33,3.0,10,1,0,87
+1536,48784,Sales & Marketing,region_2,0,f,other,1,22,5.0,1,0,0,45
+1543,31670,Operations,region_15,0,m,other,1,38,3.0,2,0,0,62
+1552,38284,Sales & Marketing,region_32,0,f,sourcing,1,29,3.0,5,0,0,52
+1565,9064,Sales & Marketing,region_7,0,m,other,1,36,3.0,5,0,0,51
+1576,11626,Analytics,region_22,0,m,sourcing,1,27,,1,1,1,88
+1649,58716,Sales & Marketing,region_6,0,m,other,1,30,,1,0,0,48
+1681,1346,Analytics,region_2,0,m,other,1,43,3.0,13,0,0,85
+1695,71446,Operations,region_16,0,f,other,1,31,5.0,7,1,0,64
+1701,34725,Operations,region_23,0,m,sourcing,1,29,3.0,7,0,0,55
+1713,76569,Analytics,region_22,0,m,sourcing,1,24,5.0,3,1,0,85
+1730,54159,Sales & Marketing,region_9,0,m,sourcing,1,29,3.0,4,0,0,48
+1738,10009,Sales & Marketing,region_2,0,m,sourcing,2,21,,1,0,0,52
+1741,62135,Sales & Marketing,region_32,0,m,sourcing,1,29,2.0,4,0,0,44
+1746,64525,Sales & Marketing,region_23,0,m,sourcing,1,33,1.0,7,0,0,49
+1748,41758,Sales & Marketing,region_13,0,m,sourcing,1,31,1.0,6,0,0,49
+1774,3668,Sales & Marketing,region_7,0,m,sourcing,1,25,5.0,2,0,0,69
+1817,69866,Operations,region_32,0,m,sourcing,1,28,3.0,2,0,0,61
+1848,63453,HR,region_26,0,m,sourcing,1,30,3.0,6,1,0,51
+1865,40914,Sales & Marketing,region_7,0,f,other,1,25,4.0,3,0,0,48
+1866,27978,Procurement,region_2,0,f,sourcing,1,35,5.0,5,0,0,74
+1884,8264,Sales & Marketing,region_2,0,m,other,1,29,3.0,2,0,0,52
+1955,73513,Sales & Marketing,region_9,0,m,other,1,39,1.0,7,0,0,53
+1977,50738,Sales & Marketing,region_2,0,m,sourcing,1,28,,1,1,0,55
+1985,16624,Sales & Marketing,region_32,0,f,other,1,27,5.0,5,0,0,51
+2007,77563,Sales & Marketing,region_2,0,m,sourcing,1,24,,1,1,0,44
+2030,51676,Analytics,region_29,0,m,sourcing,1,30,4.0,3,1,0,83
+2039,25917,Technology,region_7,0,m,other,1,24,4.0,1,0,0,79
+2045,73917,Sales & Marketing,region_2,0,f,sourcing,1,25,3.0,2,1,0,51
+2047,19094,Procurement,region_26,0,m,other,1,33,3.0,7,1,0,70
+2077,13022,Analytics,region_2,0,m,sourcing,1,25,,1,0,0,92
+2101,24703,Sales & Marketing,region_28,0,m,other,1,34,5.0,10,0,0,55
+2129,35969,Sales & Marketing,region_26,0,m,other,1,31,2.0,5,0,0,48
+2146,74554,Sales & Marketing,region_13,0,m,other,1,45,3.0,7,0,0,57
+2164,18385,Sales & Marketing,region_1,0,m,other,1,28,1.0,3,0,0,47
+2187,47949,Analytics,region_22,0,m,other,2,26,4.0,3,1,0,83
+2190,63732,Operations,region_32,0,m,other,1,31,5.0,6,1,0,56
+2202,1893,Sales & Marketing,region_2,0,m,sourcing,1,22,5.0,2,0,1,60
+2245,18333,Sales & Marketing,region_28,0,m,sourcing,1,32,3.0,7,0,0,51
+2256,8406,Sales & Marketing,region_7,0,m,other,1,31,5.0,6,0,0,50
+2275,56741,Sales & Marketing,region_14,0,m,other,2,25,3.0,2,0,0,46
+2278,7930,Sales & Marketing,region_19,0,m,sourcing,1,35,1.0,7,0,0,50
+2297,11549,Sales & Marketing,region_2,0,m,other,1,22,,1,0,0,51
+2318,39762,Operations,region_2,0,f,other,1,28,5.0,2,1,0,61
+2332,40409,Analytics,region_22,0,m,sourcing,1,26,2.0,5,0,0,84
+2419,13041,Analytics,region_22,0,m,sourcing,1,28,4.0,2,0,0,83
+2431,13902,Sales & Marketing,region_13,0,m,sourcing,1,23,,1,0,0,53
+2488,59634,Sales & Marketing,region_2,0,m,sourcing,1,37,5.0,6,0,0,48
+2527,58057,Sales & Marketing,region_2,0,m,sourcing,1,44,3.0,3,0,0,54
+2530,29339,Technology,region_26,0,m,other,1,35,5.0,10,1,0,83
+2573,42104,R&D,region_22,0,m,sourcing,1,28,3.0,5,0,0,84
+2605,58356,Analytics,region_22,0,m,other,1,29,5.0,6,1,0,83
+2632,54777,Sales & Marketing,region_7,0,m,other,1,25,4.0,4,1,0,53
+2635,7203,Sales & Marketing,region_22,0,m,sourcing,1,28,3.0,2,1,1,47
+2676,11137,Sales & Marketing,region_16,0,m,other,1,41,2.0,11,0,0,54
+2685,64782,Sales & Marketing,region_7,0,m,other,3,31,3.0,3,0,0,51
+2722,54011,Sales & Marketing,region_1,0,m,sourcing,1,28,3.0,2,1,0,48
+2750,35551,Sales & Marketing,region_7,0,f,sourcing,1,23,,1,0,0,52
+2753,53538,Sales & Marketing,region_2,0,m,sourcing,2,20,2.0,2,0,0,50
+2762,33975,Sales & Marketing,region_15,0,f,other,1,31,3.0,4,0,0,50
+2776,30824,Analytics,region_2,0,m,other,1,45,3.0,13,0,0,84
+2791,69581,Sales & Marketing,region_2,0,m,other,1,30,3.0,1,0,0,51
+2818,41968,Sales & Marketing,region_2,0,f,sourcing,1,26,,1,0,0,47
+2852,2788,Finance,region_2,0,m,other,1,44,3.0,15,0,0,58
+2859,35065,Sales & Marketing,region_9,0,m,other,1,30,1.0,4,0,0,52
+2874,54366,Analytics,region_22,0,m,sourcing,1,23,3.0,1,1,0,88
+2910,37972,Analytics,region_22,0,m,sourcing,4,27,5.0,3,1,0,86
+2933,36161,Sales & Marketing,region_2,0,m,other,1,37,4.0,4,1,0,47
+2949,17184,Finance,region_2,0,m,other,1,34,4.0,6,1,0,59
+2960,20443,Sales & Marketing,region_31,0,m,sourcing,1,23,,1,0,0,42
+2968,55912,Sales & Marketing,region_15,0,m,sourcing,1,39,5.0,10,0,0,51
+2972,40076,Sales & Marketing,region_2,0,f,other,1,34,2.0,4,0,0,50
+3020,75686,Sales & Marketing,region_2,0,f,other,1,29,3.0,7,1,0,50
+3047,60096,Sales & Marketing,region_30,0,m,sourcing,1,25,3.0,3,0,0,54
+3055,18740,Analytics,region_32,0,m,other,2,27,,1,1,0,84
+3075,21974,Sales & Marketing,region_25,0,m,other,1,27,,1,0,0,48
+3105,20509,Sales & Marketing,region_22,0,m,other,1,24,5.0,1,0,0,50
+3118,44007,Sales & Marketing,region_2,0,m,sourcing,1,32,5.0,3,0,0,47
+3134,71683,Sales & Marketing,region_27,0,m,sourcing,1,32,2.0,7,1,0,54
+3140,73556,Sales & Marketing,region_5,0,m,other,1,22,,1,1,0,48
+3160,33753,Sales & Marketing,region_7,0,m,sourcing,1,28,5.0,6,0,0,46
+3189,71150,Sales & Marketing,region_13,0,m,other,1,23,3.0,2,0,0,53
+3238,35204,Sales & Marketing,region_25,0,m,sourcing,1,26,5.0,5,1,0,44
+3260,76867,Sales & Marketing,region_2,0,f,sourcing,1,36,5.0,9,0,0,48
+3274,60807,Sales & Marketing,region_2,0,m,sourcing,1,23,5.0,2,1,0,48
+3287,46929,Analytics,region_22,0,m,other,1,28,2.0,2,1,0,84
+3297,38689,Sales & Marketing,region_16,0,m,sourcing,1,32,5.0,6,0,0,54
+3319,34947,Sales & Marketing,region_2,0,m,other,1,21,1.0,2,0,0,49
+3320,39475,HR,region_2,0,m,sourcing,1,30,3.0,9,0,0,44
+3344,12031,Sales & Marketing,region_16,0,m,other,1,25,3.0,2,0,0,48
+3345,74159,Sales & Marketing,region_11,0,m,sourcing,1,36,3.0,10,0,0,51
+3393,25307,Technology,region_27,0,m,other,2,28,4.0,4,0,0,84
+3394,19739,Sales & Marketing,region_31,0,m,other,2,30,3.0,7,0,0,46
+3432,71752,Sales & Marketing,region_2,0,m,referred,2,24,5.0,2,1,0,44
+3457,27620,Sales & Marketing,region_2,0,m,other,3,49,2.0,20,0,0,51
+3461,18998,Sales & Marketing,region_16,0,m,other,1,25,4.0,2,1,0,51
+3467,42158,Operations,region_2,0,f,other,1,53,2.0,11,0,0,61
+3478,14211,Analytics,region_22,0,m,sourcing,1,32,3.0,8,0,0,86
+3527,46711,Operations,region_2,0,f,other,1,49,3.0,10,0,0,58
+3557,64049,Sales & Marketing,region_7,0,m,other,1,35,3.0,10,0,0,47
+3577,42230,Analytics,region_2,0,m,other,1,23,1.0,2,0,0,87
+3599,38743,Analytics,region_32,0,m,sourcing,1,27,3.0,3,0,0,84
+3637,67671,Sales & Marketing,region_21,0,m,sourcing,1,39,1.0,9,0,0,49
+3640,2897,Sales & Marketing,region_2,0,m,sourcing,1,32,2.0,3,0,0,52
+3683,39929,Sales & Marketing,region_2,0,m,sourcing,2,24,3.0,2,0,0,49
+3693,55345,Sales & Marketing,region_2,0,m,sourcing,1,43,1.0,12,0,0,49
+3717,55746,Sales & Marketing,region_15,0,m,sourcing,1,20,3.0,2,0,0,52
+3727,49820,Sales & Marketing,region_26,0,m,sourcing,1,24,,1,0,0,43
+3740,20112,Sales & Marketing,region_23,0,m,other,1,34,1.0,2,0,0,49
+3779,11481,Sales & Marketing,region_16,0,m,other,1,29,3.0,4,0,0,46
+3792,72112,Sales & Marketing,region_22,0,f,other,1,28,1.0,5,0,0,52
+3834,21052,Sales & Marketing,region_16,0,m,sourcing,1,24,3.0,2,0,0,50
+3839,49391,Sales & Marketing,region_15,0,m,other,1,27,1.0,4,0,0,49
+3918,22044,Sales & Marketing,region_16,0,m,other,1,21,,1,0,0,48
+3920,47173,Sales & Marketing,region_2,0,m,other,2,21,,1,1,0,52
+3938,17546,Sales & Marketing,region_15,0,m,sourcing,1,38,3.0,4,0,0,44
+3950,46611,Sales & Marketing,region_2,0,m,sourcing,1,23,5.0,2,1,0,48
+3958,59184,R&D,region_22,0,m,sourcing,1,28,5.0,2,1,0,85
+3967,34548,Sales & Marketing,region_7,0,m,other,1,26,5.0,3,0,0,46
+3998,43733,Sales & Marketing,region_2,0,m,other,1,26,5.0,2,1,0,47
+4060,6646,Sales & Marketing,region_9,0,m,sourcing,1,33,3.0,5,0,0,47
+4083,13990,Sales & Marketing,region_22,0,f,sourcing,1,27,3.0,4,1,0,49
+4127,67977,Procurement,region_2,0,m,sourcing,1,34,3.0,9,0,0,63
+4175,13429,Sales & Marketing,region_16,0,f,other,1,22,4.0,2,0,0,50
+4195,3450,Sales & Marketing,region_1,0,m,sourcing,1,33,3.0,3,0,0,50
+4212,141,Sales & Marketing,region_22,0,m,other,1,29,4.0,5,1,0,48
+4217,67933,Operations,region_2,0,f,sourcing,1,35,3.0,8,0,0,58
+4284,66909,Sales & Marketing,region_7,0,m,other,1,28,2.0,5,0,0,53
+4294,40264,Sales & Marketing,region_2,0,m,other,1,34,3.0,7,1,0,48
+4336,21532,Analytics,region_2,0,m,sourcing,1,40,1.0,6,0,0,80
+4348,22794,Sales & Marketing,region_2,0,m,sourcing,2,33,1.0,4,0,0,56
+4374,13311,Sales & Marketing,region_23,0,m,sourcing,2,30,5.0,6,0,0,50
+4467,30423,Sales & Marketing,region_2,0,f,sourcing,1,46,1.0,14,0,0,53
+4470,43974,Technology,region_2,0,f,other,1,48,1.0,11,0,0,80
+4473,19247,Sales & Marketing,region_22,0,m,other,2,22,,1,0,0,50
+4481,66433,Sales & Marketing,region_9,0,m,other,1,29,4.0,2,0,0,51
+4514,51987,Sales & Marketing,region_2,0,m,other,1,28,3.0,5,0,0,52
+4531,19394,Analytics,region_22,0,m,sourcing,3,28,4.0,4,1,0,87
+4613,43727,Sales & Marketing,region_27,0,m,other,1,29,3.0,5,0,0,47
+4619,18005,Sales & Marketing,region_2,0,m,other,1,40,5.0,7,1,0,55
+4633,37670,Analytics,region_22,0,m,other,1,26,5.0,2,1,0,85
+4673,54213,Sales & Marketing,region_31,0,m,sourcing,1,32,2.0,3,0,0,47
+4679,65972,Sales & Marketing,region_22,0,m,other,1,25,3.0,2,0,0,50
+4743,69490,Operations,region_8,0,f,other,1,31,4.0,5,0,0,57
+4745,43154,Sales & Marketing,region_26,0,m,other,1,31,3.0,2,1,0,50
+4757,517,HR,region_2,0,f,sourcing,1,33,3.0,4,1,0,50
+4772,68087,Analytics,region_2,0,m,sourcing,1,28,1.0,6,0,0,87
+4807,68779,Sales & Marketing,region_2,0,m,other,1,20,1.0,2,0,0,52
+4812,71104,Sales & Marketing,region_2,0,m,other,1,49,3.0,19,0,0,46
+4858,48590,Procurement,region_2,0,f,other,1,47,5.0,15,1,0,69
+4865,23015,Analytics,region_29,0,m,other,1,28,5.0,2,1,0,86
+4894,30342,Procurement,region_2,0,m,sourcing,1,33,5.0,6,1,0,71
+4895,72809,Sales & Marketing,region_22,0,m,sourcing,1,26,,1,0,0,49
+4906,21759,Sales & Marketing,region_13,0,m,sourcing,1,39,3.0,8,0,0,53
+4910,31201,Sales & Marketing,region_23,0,m,sourcing,1,33,5.0,9,0,0,51
+4928,15399,Sales & Marketing,region_2,0,m,other,1,33,2.0,8,0,0,52
+4964,41396,Sales & Marketing,region_26,0,m,sourcing,1,31,3.0,7,1,0,51
+4966,26455,Operations,region_22,0,m,sourcing,1,26,5.0,2,0,0,61
+5009,35830,Sales & Marketing,region_22,0,m,other,1,25,,1,0,0,47
+5018,49031,Sales & Marketing,region_28,0,m,sourcing,1,33,5.0,4,1,0,51
+5054,51376,Operations,region_22,0,m,other,1,27,2.0,3,0,0,61
+5058,34632,Sales & Marketing,region_22,0,m,sourcing,1,22,2.0,2,0,0,48
+5088,56323,Sales & Marketing,region_1,0,m,sourcing,1,27,1.0,4,0,0,47
+5141,75991,Sales & Marketing,region_22,0,m,other,1,28,4.0,4,0,0,50
+5236,59555,Operations,region_22,0,m,other,1,25,3.0,2,1,0,60
+5238,61861,Technology,region_2,0,m,sourcing,1,40,3.0,3,0,0,79
+5245,14517,Sales & Marketing,region_26,0,m,other,2,29,3.0,3,1,0,48
+5257,38787,Sales & Marketing,region_29,0,m,sourcing,1,22,3.0,2,0,0,51
+5274,4372,Finance,region_22,0,m,sourcing,1,29,1.0,2,0,0,58
+5277,13126,Operations,region_15,0,m,other,1,42,2.0,4,0,0,55
+5290,13677,Sales & Marketing,region_2,0,m,other,1,29,2.0,3,0,0,48
+5295,24567,Operations,region_2,0,m,other,1,30,3.0,9,0,0,60
+5312,74581,HR,region_2,0,m,other,1,30,3.0,2,0,0,52
+5315,16876,Technology,region_26,0,m,other,2,30,4.0,3,1,0,79
+5345,47417,Operations,region_31,0,m,other,1,28,3.0,6,0,0,60
+5401,35336,Technology,region_2,0,m,sourcing,2,41,3.0,7,0,0,82
+5415,47969,Sales & Marketing,region_2,0,m,other,1,20,3.0,2,0,0,50
+5468,51469,Sales & Marketing,region_31,0,m,sourcing,1,23,4.0,2,0,0,51
+5470,28874,Operations,region_7,0,m,sourcing,1,31,3.0,5,0,0,61
+5471,71851,Analytics,region_22,0,m,other,1,27,4.0,3,1,0,84
+5482,39843,Sales & Marketing,region_11,0,m,other,1,36,5.0,8,1,0,49
+5531,38693,Sales & Marketing,region_7,0,m,other,1,20,,1,0,0,48
+5564,23302,Sales & Marketing,region_7,0,m,sourcing,1,39,1.0,9,0,0,48
+5585,833,Operations,region_15,0,m,sourcing,1,33,3.0,5,1,0,62
+5610,38475,Sales & Marketing,region_7,0,m,other,1,24,,1,1,0,49
+5638,36753,Analytics,region_28,0,m,other,2,34,4.0,7,1,0,82
+5664,10771,Sales & Marketing,region_22,0,m,other,1,27,5.0,2,0,0,50
+5694,30580,Sales & Marketing,region_2,0,m,other,1,32,3.0,5,0,0,45
+5698,32882,Sales & Marketing,region_29,0,f,sourcing,1,28,3.0,4,0,0,45
+5700,29201,Analytics,region_7,0,m,sourcing,3,24,3.0,2,0,0,81
+5715,62087,Sales & Marketing,region_2,0,m,sourcing,1,34,5.0,4,1,0,52
+5717,66214,Sales & Marketing,region_22,0,m,sourcing,1,23,,1,0,0,50
+5724,38377,Sales & Marketing,region_15,0,m,other,1,30,3.0,3,0,0,49
+5741,60504,Sales & Marketing,region_13,0,m,sourcing,1,32,4.0,5,0,0,44
+5803,57421,Analytics,region_7,0,m,sourcing,1,24,2.0,2,0,0,85
+5850,32813,Sales & Marketing,region_2,0,f,other,1,56,5.0,6,0,0,46
+5862,40892,Sales & Marketing,region_28,0,m,sourcing,2,34,3.0,8,0,0,50
+5923,26604,HR,region_2,0,m,other,1,34,5.0,9,1,0,55
+5958,10103,Analytics,region_2,0,m,sourcing,1,32,5.0,6,1,0,86
+5997,27306,Sales & Marketing,region_2,0,m,sourcing,1,27,3.0,2,0,0,47
+6049,27387,Sales & Marketing,region_2,0,m,other,1,26,3.0,2,0,0,47
+6092,5957,Sales & Marketing,region_27,0,m,sourcing,2,24,2.0,1,0,0,49
+6131,4622,Sales & Marketing,region_2,0,m,other,1,42,5.0,4,1,0,51
+6149,61065,Sales & Marketing,region_2,0,f,other,1,20,,1,0,0,43
+6155,64067,Analytics,region_2,0,m,other,1,36,4.0,6,0,0,89
+6168,27739,Sales & Marketing,region_22,0,m,sourcing,1,27,4.0,4,0,0,48
+6198,15555,Analytics,region_2,0,m,other,1,28,,1,0,0,85
+6205,33125,Analytics,region_22,0,m,other,1,28,3.0,6,1,0,82
+6245,70928,Technology,region_31,0,f,other,1,27,1.0,2,0,0,83
+6269,60888,Procurement,region_2,0,f,sourcing,1,47,3.0,19,0,0,67
+6281,55026,Operations,region_32,0,m,sourcing,1,27,3.0,4,0,0,58
+6311,48698,Sales & Marketing,region_2,0,m,other,1,27,3.0,5,0,0,52
+6329,31479,Operations,region_15,0,f,other,1,33,3.0,6,1,0,64
+6338,55194,Analytics,region_22,0,m,other,1,25,,1,1,0,82
+6422,43030,Finance,region_2,0,m,other,3,38,1.0,7,0,0,63
+6483,77971,Operations,region_2,0,f,other,1,30,4.0,6,1,0,59
+6490,56110,Sales & Marketing,region_27,0,m,other,1,27,,1,0,0,54
+6522,77707,Sales & Marketing,region_7,0,m,sourcing,1,26,,1,1,0,50
+6590,17437,Operations,region_32,0,m,sourcing,1,30,,1,0,0,56
+6610,50801,Procurement,region_2,0,f,sourcing,1,31,1.0,6,0,0,69
+6614,50170,Procurement,region_15,0,f,sourcing,1,53,4.0,7,0,0,69
+6713,18140,Sales & Marketing,region_28,0,m,other,1,29,,1,0,0,49
+6714,49676,Sales & Marketing,region_7,0,m,other,2,28,3.0,5,0,0,53
+6727,15034,Analytics,region_28,0,m,other,1,31,1.0,6,0,0,84
+6734,32499,Sales & Marketing,region_7,0,m,other,1,35,1.0,7,0,0,44
+6757,74867,Analytics,region_31,0,m,other,1,31,3.0,2,0,0,85
+6885,24523,HR,region_2,0,f,sourcing,1,32,3.0,7,0,0,50
+6917,16987,Sales & Marketing,region_31,0,m,other,1,26,2.0,3,1,0,54
+6940,14340,Procurement,region_2,0,f,sourcing,1,41,2.0,5,0,0,66
+6942,65336,Operations,region_22,0,m,other,1,26,3.0,4,0,0,66
+6948,23074,Sales & Marketing,region_2,0,f,sourcing,1,37,3.0,9,0,0,50
+7004,38667,HR,region_2,0,f,sourcing,1,24,5.0,2,1,0,49
+7032,74591,Sales & Marketing,region_7,0,m,sourcing,3,25,5.0,3,0,0,66
+7034,45671,Sales & Marketing,region_2,0,f,sourcing,1,54,3.0,23,0,0,51
+7035,22450,Sales & Marketing,region_2,0,m,other,1,32,5.0,6,1,0,50
+7059,43781,Sales & Marketing,region_22,0,m,other,1,27,3.0,2,0,0,47
+7071,25631,Procurement,region_2,0,f,other,1,31,5.0,8,1,0,69
+7099,38268,Sales & Marketing,region_31,0,m,sourcing,1,23,3.0,2,0,0,45
+7111,58118,Analytics,region_28,0,m,other,2,34,3.0,6,1,0,84
+7125,34238,Sales & Marketing,region_2,0,m,other,2,24,,1,0,0,49
+7155,37595,Analytics,region_29,0,m,sourcing,1,28,2.0,3,0,0,87
+7166,66788,Sales & Marketing,region_15,0,m,other,1,26,,1,0,0,49
+7176,41089,Analytics,region_22,0,m,other,2,27,3.0,2,0,0,81
+7208,18254,Sales & Marketing,region_16,0,f,other,1,22,3.0,2,0,0,51
+7228,38158,Sales & Marketing,region_3,0,m,sourcing,1,24,2.0,2,0,0,49
+7235,46702,Sales & Marketing,region_2,0,f,sourcing,1,30,5.0,7,1,0,53
+7262,1206,Analytics,region_9,0,m,other,1,28,,1,0,0,82
+7264,5383,Sales & Marketing,region_15,0,m,sourcing,2,33,2.0,5,0,0,51
+7324,71656,Sales & Marketing,region_13,0,m,other,1,22,,1,1,0,46
+7330,8985,Analytics,region_22,0,m,other,1,28,,1,0,0,86
+7337,73339,Sales & Marketing,region_2,0,m,sourcing,1,26,3.0,3,0,0,51
+7363,14549,Sales & Marketing,region_22,0,m,sourcing,1,28,3.0,4,0,0,50
+7412,63868,Sales & Marketing,region_27,0,m,other,1,38,1.0,3,0,0,48
+7442,58328,Sales & Marketing,region_2,0,m,other,1,37,5.0,6,0,0,51
+7449,21910,Operations,region_15,0,m,sourcing,1,30,2.0,6,0,0,58
+7468,45417,Sales & Marketing,region_2,0,f,sourcing,1,25,3.0,2,0,0,47
+7497,55775,Analytics,region_32,0,m,sourcing,1,28,4.0,3,0,0,88
+7500,24385,Sales & Marketing,region_7,0,m,sourcing,1,29,3.0,8,1,0,48
+7503,10144,Analytics,region_9,0,m,other,1,27,1.0,2,0,0,85
+7523,74031,Sales & Marketing,region_12,0,m,other,1,39,4.0,7,0,0,47
+7549,52461,Sales & Marketing,region_12,0,m,other,1,24,3.0,3,0,0,48
+7602,18407,Sales & Marketing,region_13,0,m,other,1,22,3.0,1,0,0,47
+7625,18633,Sales & Marketing,region_2,0,m,other,1,33,1.0,3,0,0,54
+7657,31622,Sales & Marketing,region_27,0,m,other,1,49,1.0,9,0,0,46
+7658,69352,Technology,region_2,0,f,sourcing,1,35,5.0,9,1,0,80
+7664,40458,Sales & Marketing,region_2,0,m,other,1,22,1.0,2,0,0,50
+7706,40615,Sales & Marketing,region_2,0,m,other,1,37,3.0,9,0,0,52
+7737,17748,Sales & Marketing,region_7,0,m,other,1,26,,1,0,0,52
+7752,74498,Analytics,region_22,0,m,sourcing,1,27,,1,1,0,86
+7787,16156,Sales & Marketing,region_15,0,m,sourcing,1,36,3.0,7,0,0,50
+7809,11950,Sales & Marketing,region_22,0,m,sourcing,1,29,4.0,6,1,0,52
+7815,5882,Analytics,region_26,0,m,other,1,29,3.0,3,0,0,83
+7842,70545,Sales & Marketing,region_9,0,m,other,1,30,5.0,2,0,0,48
+7856,48888,Sales & Marketing,region_15,0,f,other,1,29,4.0,2,1,0,49
+7913,51516,Technology,region_2,0,f,other,1,34,5.0,8,0,0,80
+7919,5242,Sales & Marketing,region_22,0,m,other,1,27,1.0,5,0,0,52
+7934,75300,Procurement,region_17,0,m,other,1,28,,1,0,0,69
+7947,42208,Sales & Marketing,region_24,0,m,other,1,28,,1,0,0,48
+7958,25791,Sales & Marketing,region_22,0,f,other,3,27,3.0,3,0,0,51
+7969,72881,Sales & Marketing,region_16,0,m,other,1,23,3.0,2,0,0,49
+7971,44609,Sales & Marketing,region_13,0,m,other,1,23,2.0,2,0,0,47
+7978,61788,Sales & Marketing,region_2,0,f,other,1,56,1.0,11,0,0,51
+8010,35915,Sales & Marketing,region_15,0,m,sourcing,1,30,4.0,3,0,0,53
+8067,16331,Sales & Marketing,region_2,0,m,other,1,33,3.0,7,0,0,47
+8074,50629,Sales & Marketing,region_23,0,m,sourcing,1,39,5.0,4,1,0,47
+8082,73178,Sales & Marketing,region_2,0,m,sourcing,1,25,4.0,2,1,0,50
+8086,24753,Finance,region_2,0,f,sourcing,1,38,3.0,3,0,0,59
+8100,74571,Procurement,region_26,0,f,other,1,29,4.0,4,0,0,72
+8113,36923,Technology,region_2,0,f,sourcing,2,44,2.0,7,0,0,77
+8125,41498,Sales & Marketing,region_2,0,m,sourcing,1,33,3.0,6,0,0,52
+8132,24564,Sales & Marketing,region_26,0,m,sourcing,1,34,4.0,3,0,0,49
+8141,68696,Sales & Marketing,region_2,0,m,other,1,38,3.0,10,0,0,50
+8214,22542,Sales & Marketing,region_31,0,m,other,1,34,4.0,2,0,0,50
+8225,32062,Sales & Marketing,region_2,0,f,sourcing,1,24,,1,0,0,52
+8254,50546,Sales & Marketing,region_2,0,m,other,1,26,,1,0,0,53
+8265,56253,Sales & Marketing,region_22,0,m,sourcing,2,25,,1,0,0,48
+8284,77694,Sales & Marketing,region_22,0,m,other,3,25,1.0,1,0,0,48
+8287,14423,Sales & Marketing,region_2,0,m,other,2,25,,1,0,0,61
+8294,50055,Sales & Marketing,region_2,0,m,other,1,25,,1,0,0,48
+8304,24247,Analytics,region_32,0,m,other,2,28,3.0,2,1,0,91
+8322,44264,Sales & Marketing,region_15,0,m,sourcing,1,30,2.0,3,0,0,50
+8333,27112,Sales & Marketing,region_27,0,m,sourcing,1,39,5.0,3,0,0,50
+8354,24762,Sales & Marketing,region_7,0,m,sourcing,1,25,2.0,3,1,0,57
+8373,46470,Sales & Marketing,region_20,0,m,other,1,24,,1,0,0,50
+8416,57894,Operations,region_2,0,f,other,1,29,5.0,5,1,0,62
+8445,11445,Sales & Marketing,region_2,0,f,sourcing,1,23,3.0,2,0,0,50
+8454,74543,Analytics,region_28,0,m,other,1,28,5.0,5,1,0,82
+8468,50806,Sales & Marketing,region_14,0,m,sourcing,1,23,4.0,2,0,0,47
+8470,49974,HR,region_2,0,m,sourcing,1,30,5.0,7,1,0,50
+8502,37478,Analytics,region_15,0,m,other,1,28,3.0,2,0,0,82
+8510,53457,Sales & Marketing,region_15,0,m,sourcing,1,36,1.0,17,0,0,52
+8518,70342,Sales & Marketing,region_16,0,m,sourcing,1,27,3.0,2,0,0,49
+8559,40853,Analytics,region_26,0,m,other,1,32,4.0,2,0,0,80
+8597,51264,Sales & Marketing,region_2,0,m,sourcing,1,44,5.0,4,0,0,49
+8600,6128,Procurement,region_2,0,m,sourcing,1,31,3.0,6,0,0,67
+8662,18109,Sales & Marketing,region_13,0,m,other,1,21,,1,0,0,48
+8758,26602,Sales & Marketing,region_26,0,m,other,1,24,,1,1,0,48
+8765,68845,Sales & Marketing,region_2,0,m,sourcing,1,24,,1,0,0,44
+8767,28857,Technology,region_2,0,m,sourcing,1,35,2.0,7,0,0,81
+8885,36575,Analytics,region_2,0,m,other,1,26,3.0,2,0,0,80
+8898,32964,Sales & Marketing,region_2,0,m,other,1,36,5.0,5,1,0,52
+8917,26166,Sales & Marketing,region_28,0,m,sourcing,1,27,3.0,3,0,0,49
+8955,76014,Sales & Marketing,region_7,0,m,sourcing,1,27,4.0,2,0,0,50
+8960,36828,Sales & Marketing,region_2,0,m,sourcing,1,49,5.0,6,0,0,46
+8989,11597,Sales & Marketing,region_15,0,m,other,1,24,4.0,2,0,0,52
+9010,5978,Technology,region_2,0,f,other,1,50,5.0,3,1,0,84
+9049,11056,Sales & Marketing,region_7,0,m,sourcing,1,26,5.0,3,0,0,50
+9114,44838,Sales & Marketing,region_2,0,f,sourcing,1,53,2.0,6,0,0,48
+9155,4122,Sales & Marketing,region_26,0,m,sourcing,1,35,3.0,8,0,0,50
+9167,43173,Analytics,region_22,0,f,sourcing,1,29,4.0,5,1,0,85
+9198,75335,Sales & Marketing,region_22,0,m,other,1,25,1.0,2,0,0,47
+9221,54252,Technology,region_2,0,m,other,1,29,3.0,2,0,0,78
+9254,9780,Sales & Marketing,region_28,0,m,other,1,27,,1,0,0,44
+9259,61702,Operations,region_26,0,m,sourcing,1,29,4.0,4,1,0,57
+9287,31956,Sales & Marketing,region_2,0,f,other,2,23,,1,0,0,50
+9301,65661,Sales & Marketing,region_13,0,m,other,1,22,1.0,2,1,0,49
+9312,14388,Procurement,region_2,0,f,sourcing,1,34,5.0,8,1,0,73
+9320,56018,Sales & Marketing,region_2,0,m,other,1,22,,1,0,0,49
+9343,34165,Technology,region_2,0,m,other,1,43,3.0,17,0,0,77
+9367,58294,Sales & Marketing,region_2,0,m,other,1,28,5.0,5,1,0,48
+9396,7978,Analytics,region_22,0,m,other,1,28,3.0,4,0,0,85
+9398,68174,Procurement,region_17,0,f,other,1,27,4.0,4,0,0,73
+9414,74292,Procurement,region_2,0,m,sourcing,1,27,,1,0,0,68
+9423,48309,Analytics,region_23,0,m,other,2,33,3.0,6,0,0,87
+9432,70127,Sales & Marketing,region_6,0,m,sourcing,1,28,3.0,4,0,0,48
+9563,64121,Sales & Marketing,region_7,0,m,other,2,34,1.0,5,1,0,48
+9571,59894,Sales & Marketing,region_7,0,m,sourcing,3,24,1.0,2,1,0,49
+9580,40197,Analytics,region_22,0,f,other,1,26,1.0,2,0,0,81
+9694,6267,Sales & Marketing,region_26,0,m,other,1,25,1.0,2,0,0,51
+9713,37455,Sales & Marketing,region_7,0,m,sourcing,1,36,3.0,6,0,0,46
+9721,39878,Operations,region_2,0,f,other,1,51,3.0,20,0,0,61
+9726,58471,Sales & Marketing,region_28,0,m,sourcing,1,30,3.0,4,0,0,49
+9752,9785,Analytics,region_2,0,m,other,1,23,,1,0,0,88
+9855,69819,Sales & Marketing,region_32,0,m,other,1,29,5.0,5,1,0,50
+9866,7975,Sales & Marketing,region_32,0,m,other,1,34,3.0,8,0,0,53
+9869,18141,Sales & Marketing,region_7,0,m,other,1,25,1.0,3,1,0,46
+9881,60533,Operations,region_15,0,m,sourcing,1,41,3.0,15,0,0,59
+9899,12808,Sales & Marketing,region_22,0,m,other,1,28,1.0,5,1,0,49
+9904,56878,Operations,region_2,0,m,other,1,31,1.0,2,0,0,58
+9939,22723,Sales & Marketing,region_22,0,m,other,2,24,3.0,2,0,0,50
+9954,11376,Sales & Marketing,region_15,0,m,sourcing,1,33,1.0,7,0,0,48
+10005,48533,Operations,region_2,0,m,other,1,29,2.0,5,1,0,55
+10051,35321,Sales & Marketing,region_32,0,m,other,1,28,2.0,2,0,0,51
+10087,5866,Procurement,region_2,0,m,other,3,28,3.0,6,0,0,68
+10126,62819,Sales & Marketing,region_7,0,m,sourcing,1,35,3.0,5,0,0,48
+10128,35829,Analytics,region_2,0,m,other,2,28,3.0,4,0,0,85
+10133,70577,Sales & Marketing,region_15,0,m,sourcing,1,37,2.0,9,0,0,53
+10181,47209,Sales & Marketing,region_2,0,m,other,1,21,3.0,2,0,0,54
+10217,1996,Sales & Marketing,region_22,0,m,other,1,24,3.0,2,0,0,47
+10228,31137,Sales & Marketing,region_7,0,m,other,1,29,3.0,2,0,0,56
+10231,4635,Sales & Marketing,region_31,0,m,sourcing,1,28,1.0,4,0,0,51
+10235,76553,Sales & Marketing,region_22,0,m,sourcing,2,26,3.0,4,0,0,50
+10293,47505,Sales & Marketing,region_32,0,m,sourcing,1,32,3.0,4,0,0,52
+10299,58709,Sales & Marketing,region_7,0,m,other,1,21,,1,0,0,50
+10311,77256,Sales & Marketing,region_2,0,m,other,1,40,4.0,5,0,0,49
+10327,63496,Operations,region_2,0,m,sourcing,1,29,,1,0,0,61
+10331,5324,Procurement,region_15,0,m,sourcing,1,34,1.0,7,0,0,70
+10337,48896,Sales & Marketing,region_2,0,m,sourcing,1,34,1.0,7,1,0,49
+10342,8263,Technology,region_2,0,f,other,1,30,5.0,3,1,0,77
+10348,19224,Sales & Marketing,region_31,0,f,other,1,30,3.0,5,0,0,48
+10359,18523,Sales & Marketing,region_2,0,m,sourcing,3,28,3.0,2,0,0,48
+10436,22939,Sales & Marketing,region_16,0,m,other,1,41,3.0,12,0,0,49
+10492,57372,Analytics,region_22,0,m,other,1,27,,1,1,0,85
+10519,23076,Sales & Marketing,region_27,0,m,other,2,31,3.0,4,1,1,51
+10633,42488,Sales & Marketing,region_13,0,m,sourcing,2,31,3.0,3,0,0,48
+10644,62101,Analytics,region_22,0,m,other,2,28,3.0,2,1,0,83
+10659,57870,Sales & Marketing,region_28,0,m,sourcing,1,30,2.0,3,1,0,49
+10665,73720,Sales & Marketing,region_22,0,m,other,1,28,,1,1,0,51
+10666,1693,Analytics,region_2,0,m,other,1,36,3.0,2,1,0,84
+10714,54982,Sales & Marketing,region_31,0,m,sourcing,1,27,4.0,3,1,0,48
+10732,59273,Sales & Marketing,region_21,0,m,other,1,35,3.0,7,0,0,51
+10745,28728,Sales & Marketing,region_31,0,m,other,1,34,2.0,5,0,0,50
+10758,78067,Sales & Marketing,region_26,0,m,other,1,25,,1,1,0,50
+10772,70860,Sales & Marketing,region_15,0,m,sourcing,1,24,,1,0,0,50
+10796,44122,Sales & Marketing,region_16,0,m,sourcing,1,21,,1,0,0,51
+10804,11319,Finance,region_22,0,m,sourcing,1,28,3.0,2,1,0,59
+10830,63648,HR,region_2,0,m,other,1,43,1.0,13,0,0,52
+10890,1418,Technology,region_2,0,f,other,1,32,3.0,7,0,0,81
+10893,67555,Sales & Marketing,region_7,0,m,other,1,24,,1,0,0,49
+10944,19431,Sales & Marketing,region_31,0,m,other,1,28,3.0,4,0,0,47
+10949,39954,Sales & Marketing,region_26,0,m,sourcing,1,29,1.0,4,1,0,47
+10961,52663,Sales & Marketing,region_28,0,m,sourcing,1,29,2.0,4,0,0,51
+10999,19203,Sales & Marketing,region_2,0,f,other,1,22,,1,0,0,50
+11004,6556,Sales & Marketing,region_15,0,f,other,1,32,1.0,7,0,0,51
+11012,73769,Analytics,region_32,0,m,other,1,27,1.0,3,0,0,85
+11043,21176,Sales & Marketing,region_2,0,m,other,1,26,3.0,3,0,0,45
+11050,63423,Sales & Marketing,region_2,0,m,sourcing,1,23,3.0,2,0,0,48
+11065,22830,Analytics,region_32,0,m,sourcing,2,28,,1,0,0,89
+11120,60155,Sales & Marketing,region_2,0,m,sourcing,1,30,3.0,2,1,0,48
+11210,51767,Sales & Marketing,region_2,0,f,sourcing,1,21,,1,0,0,49
+11211,27778,Sales & Marketing,region_7,0,m,sourcing,1,31,5.0,4,1,0,52
+11271,48498,Sales & Marketing,region_7,0,m,other,1,33,3.0,4,0,0,49
+11282,31212,Operations,region_2,0,m,other,1,41,3.0,7,0,0,60
+11302,67615,Sales & Marketing,region_28,0,m,sourcing,1,29,5.0,4,0,0,43
+11307,77961,Sales & Marketing,region_2,0,m,other,1,45,5.0,4,1,0,50
+11327,39331,Analytics,region_9,0,m,other,1,34,3.0,8,0,0,86
+11342,9461,Operations,region_2,0,f,other,2,44,5.0,3,1,0,54
+11347,13796,Operations,region_8,0,f,other,1,27,,1,0,0,62
+11349,52410,Sales & Marketing,region_7,0,m,other,1,24,,1,1,0,48
+11354,18134,Procurement,region_2,0,f,sourcing,1,41,3.0,10,0,0,64
+11405,63996,Sales & Marketing,region_16,0,m,other,1,31,4.0,4,0,0,51
+11465,47859,Operations,region_2,0,f,sourcing,1,54,4.0,3,0,0,59
+11522,77472,Analytics,region_22,0,m,other,1,30,3.0,4,1,0,84
+11534,16852,Sales & Marketing,region_2,0,m,sourcing,1,23,4.0,3,1,0,49
+11542,74899,Legal,region_22,0,m,other,1,29,3.0,3,0,0,62
+11602,8420,Procurement,region_22,0,m,other,1,28,,1,0,0,73
+11619,55698,Sales & Marketing,region_2,0,m,other,1,24,,1,1,0,51
+11625,20302,Sales & Marketing,region_2,0,m,other,1,20,5.0,2,1,0,54
+11627,9534,Sales & Marketing,region_2,0,m,sourcing,1,33,1.0,10,0,0,50
+11682,35170,Sales & Marketing,region_2,0,m,other,1,48,4.0,6,0,0,49
+11704,53367,Sales & Marketing,region_2,0,m,other,3,34,1.0,7,0,0,50
+11707,61957,Sales & Marketing,region_23,0,m,other,1,40,4.0,6,1,0,57
+11718,63843,Analytics,region_22,0,f,sourcing,1,27,5.0,5,1,0,82
+11731,78261,Sales & Marketing,region_22,0,m,sourcing,3,27,1.0,2,0,0,50
+11770,54842,Sales & Marketing,region_2,0,f,sourcing,1,23,5.0,2,0,0,42
+11788,44865,R&D,region_2,0,m,sourcing,4,27,,1,0,0,82
+11804,3630,Sales & Marketing,region_27,0,m,sourcing,1,34,4.0,5,0,0,48
+11807,61588,Technology,region_7,0,m,other,1,31,3.0,6,0,0,78
+11825,24764,Operations,region_7,0,m,sourcing,1,35,3.0,6,1,0,96
+11841,69864,Sales & Marketing,region_31,0,m,other,1,26,,1,1,0,48
+11848,15662,Sales & Marketing,region_2,0,m,other,1,51,4.0,4,0,0,49
+11869,26071,Operations,region_2,0,m,sourcing,1,29,4.0,4,1,0,61
+11898,65724,Analytics,region_22,0,m,other,1,28,4.0,2,1,0,86
+11928,56075,Sales & Marketing,region_26,0,m,other,1,33,1.0,5,0,0,48
+11979,38806,Sales & Marketing,region_13,0,m,other,1,22,,1,0,0,52
+11989,15768,Sales & Marketing,region_2,0,m,referred,2,25,5.0,3,1,0,46
+11998,69065,Analytics,region_22,0,m,other,1,27,5.0,3,1,0,86
+12026,41538,Sales & Marketing,region_22,0,f,sourcing,1,28,3.0,2,0,0,45
+12041,38339,Operations,region_2,0,f,other,1,27,4.0,2,0,0,59
+12117,30884,Sales & Marketing,region_2,0,f,sourcing,1,23,,1,0,0,49
+12132,30506,Analytics,region_22,0,m,other,2,25,3.0,3,1,0,83
+12140,47305,Analytics,region_2,0,m,other,2,23,4.0,2,0,0,84
+12213,7902,Sales & Marketing,region_25,0,m,sourcing,2,26,,1,0,0,50
+12261,72580,Analytics,region_32,0,m,sourcing,1,28,3.0,4,0,0,78
+12274,40493,Sales & Marketing,region_19,0,m,other,1,30,1.0,8,0,0,48
+12319,26992,Operations,region_2,0,f,sourcing,1,50,4.0,4,1,0,63
+12320,30463,Sales & Marketing,region_9,0,m,other,1,28,5.0,2,1,0,51
+12326,5787,HR,region_32,0,m,other,1,27,,1,0,0,53
+12333,56479,Sales & Marketing,region_2,0,f,other,1,38,2.0,9,0,0,45
+12335,49158,Sales & Marketing,region_2,0,m,other,1,21,4.0,2,0,0,48
+12348,37992,Sales & Marketing,region_2,0,m,sourcing,3,23,4.0,1,0,0,51
+12375,40063,Sales & Marketing,region_16,0,m,other,1,30,,1,0,0,64
+12418,22188,Operations,region_2,0,m,sourcing,2,33,3.0,10,0,0,56
+12434,35861,Sales & Marketing,region_2,0,m,sourcing,1,56,3.0,3,1,0,47
+12471,14176,Sales & Marketing,region_2,0,m,sourcing,1,41,3.0,2,0,0,57
+12499,34989,Sales & Marketing,region_2,0,f,sourcing,1,25,4.0,2,0,0,50
+12508,67642,Sales & Marketing,region_16,0,m,other,1,33,3.0,3,0,0,55
+12514,63984,Sales & Marketing,region_24,0,f,sourcing,1,30,1.0,4,0,0,51
+12518,49112,Sales & Marketing,region_15,0,m,other,1,38,1.0,10,0,0,51
+12528,34251,Analytics,region_22,0,f,other,1,26,5.0,2,0,0,83
+12576,20517,Operations,region_15,0,m,other,1,31,3.0,5,0,0,58
+12596,43178,Sales & Marketing,region_15,0,m,sourcing,1,38,1.0,7,0,0,51
+12602,13665,Operations,region_2,0,f,sourcing,1,42,5.0,7,1,0,59
+12646,1946,Operations,region_8,0,m,sourcing,1,27,4.0,5,0,0,66
+12663,400,Technology,region_2,0,f,other,1,32,4.0,2,1,0,76
+12683,78168,Sales & Marketing,region_22,0,m,other,1,20,2.0,2,0,0,47
+12710,64979,Sales & Marketing,region_27,0,m,sourcing,2,33,1.0,4,0,0,48
+12792,62129,Sales & Marketing,region_7,0,m,sourcing,1,28,3.0,6,0,0,53
+12828,17026,Sales & Marketing,region_31,0,m,sourcing,1,22,5.0,2,1,0,52
+12831,9686,Sales & Marketing,region_32,0,m,other,1,28,4.0,1,0,0,45
+12888,7888,Sales & Marketing,region_22,0,f,sourcing,1,23,3.0,2,0,0,51
+12897,18343,Sales & Marketing,region_32,0,m,other,1,34,1.0,3,0,0,49
+12899,17079,Sales & Marketing,region_2,0,f,sourcing,2,24,,1,0,0,47
+12905,43527,Sales & Marketing,region_2,0,m,sourcing,3,26,3.0,4,0,0,48
+12944,10987,Sales & Marketing,region_32,0,f,sourcing,1,27,3.0,2,0,0,50
+12961,61418,Sales & Marketing,region_25,0,m,sourcing,1,30,,1,0,0,46
+12982,16665,Sales & Marketing,region_32,0,m,sourcing,1,25,,1,0,0,53
+13027,67619,Sales & Marketing,region_22,0,m,sourcing,1,27,2.0,2,0,0,51
+13042,4250,Sales & Marketing,region_2,0,f,sourcing,1,50,3.0,2,0,0,48
+13047,30156,Sales & Marketing,region_22,0,f,other,1,28,3.0,5,0,0,52
+13053,12409,Finance,region_2,0,m,sourcing,1,31,3.0,3,0,0,63
+13062,47877,Sales & Marketing,region_2,0,f,sourcing,1,56,3.0,18,0,0,50
+13092,48628,Sales & Marketing,region_2,0,m,other,3,25,,1,0,0,51
+13124,50697,Sales & Marketing,region_15,0,m,other,1,37,3.0,7,0,0,50
+13133,41282,Sales & Marketing,region_32,0,m,other,1,26,,1,0,0,51
+13182,36647,Sales & Marketing,region_21,0,m,sourcing,1,26,5.0,3,0,0,63
+13189,37289,Sales & Marketing,region_32,0,m,sourcing,1,31,3.0,5,0,0,51
+13195,22773,Sales & Marketing,region_28,0,m,sourcing,1,31,3.0,7,0,0,49
+13196,33901,Analytics,region_22,0,m,sourcing,2,28,3.0,4,0,0,81
+13233,13383,Sales & Marketing,region_7,0,m,other,1,25,4.0,3,0,0,43
+13252,4790,Sales & Marketing,region_7,0,m,sourcing,1,28,3.0,4,1,0,59
+13253,67280,Sales & Marketing,region_2,0,m,sourcing,1,22,3.0,2,1,0,54
+13273,32088,Sales & Marketing,region_13,0,m,other,1,25,3.0,2,0,0,52
+13290,53334,Sales & Marketing,region_15,0,m,other,2,30,1.0,2,0,0,45
+13335,69155,Technology,region_2,0,f,other,1,50,1.0,9,0,0,77
+13368,13483,Sales & Marketing,region_27,0,m,other,1,25,4.0,1,1,0,53
+13376,42675,Sales & Marketing,region_28,0,m,other,1,28,3.0,3,0,0,51
+13380,39196,Sales & Marketing,region_2,0,m,other,1,56,4.0,13,1,0,45
+13389,15957,Sales & Marketing,region_15,0,m,other,1,28,1.0,3,0,0,51
+13411,62231,Sales & Marketing,region_2,0,f,sourcing,1,29,,1,0,0,48
+13414,40150,Sales & Marketing,region_26,0,m,sourcing,1,23,,1,0,0,49
+13443,59758,R&D,region_2,0,m,other,3,28,,1,0,0,83
+13456,6022,Sales & Marketing,region_28,0,m,other,1,33,3.0,7,0,0,52
+13468,54316,Sales & Marketing,region_28,0,m,other,1,33,3.0,2,1,0,49
+13482,45949,Procurement,region_26,0,m,sourcing,1,33,3.0,5,1,0,69
+13484,22003,Sales & Marketing,region_7,0,m,other,1,27,3.0,2,0,0,50
+13486,50976,Sales & Marketing,region_2,0,f,sourcing,1,40,3.0,3,1,0,50
+13572,36514,Sales & Marketing,region_2,0,m,sourcing,1,21,1.0,2,0,0,50
+13604,4732,Sales & Marketing,region_32,0,m,other,1,31,3.0,5,0,0,45
+13606,71474,Sales & Marketing,region_27,0,m,sourcing,1,26,4.0,5,0,0,49
+13608,4948,Operations,region_27,0,m,other,1,26,5.0,4,1,0,56
+13630,43609,Finance,region_2,0,m,other,3,29,3.0,4,0,0,57
+13632,72170,Sales & Marketing,region_2,0,m,other,1,48,2.0,16,0,0,55
+13647,63603,Sales & Marketing,region_28,0,m,sourcing,1,35,3.0,10,0,0,42
+13669,10123,R&D,region_22,0,m,other,3,31,3.0,2,0,0,88
+13670,22729,Operations,region_2,0,f,sourcing,1,43,5.0,18,0,0,73
+13676,38434,Sales & Marketing,region_22,0,m,other,1,22,1.0,2,0,0,52
+13678,2226,Sales & Marketing,region_2,0,f,other,1,36,1.0,7,0,0,50
+13694,23324,Technology,region_2,0,f,sourcing,1,30,1.0,3,0,0,82
+13754,8578,Analytics,region_2,0,m,other,2,30,3.0,3,0,0,86
+13765,26857,Sales & Marketing,region_9,0,m,other,1,32,3.0,7,0,0,51
+13817,6049,Sales & Marketing,region_25,0,m,sourcing,1,26,,1,1,0,49
+13819,73770,Analytics,region_7,0,m,other,1,23,1.0,1,0,0,88
+13855,56507,Sales & Marketing,region_15,0,m,sourcing,1,32,4.0,5,0,0,51
+13900,35653,Sales & Marketing,region_16,0,m,sourcing,2,22,,1,0,0,50
+13920,24908,Sales & Marketing,region_7,0,m,other,1,33,3.0,8,0,0,54
+13931,42292,Sales & Marketing,region_7,0,m,sourcing,1,29,2.0,3,0,0,51
+13933,4299,Sales & Marketing,region_12,0,m,other,1,24,,1,0,0,49
+13956,4533,Sales & Marketing,region_7,0,m,sourcing,1,21,5.0,2,1,0,49
+13961,34254,Sales & Marketing,region_2,0,m,other,1,54,1.0,23,0,0,48
+13983,51986,Procurement,region_2,0,f,sourcing,1,47,1.0,20,0,0,70
+13986,59669,Sales & Marketing,region_2,0,f,sourcing,1,54,2.0,9,0,0,48
+13988,11116,Sales & Marketing,region_2,0,m,sourcing,1,38,3.0,9,0,0,49
+13989,19558,Sales & Marketing,region_2,0,m,sourcing,1,47,4.0,7,0,1,96
+14008,27296,Procurement,region_2,0,f,other,1,38,4.0,9,0,0,72
+14009,72464,Sales & Marketing,region_14,0,m,other,1,32,1.0,7,0,0,49
+14030,73234,Sales & Marketing,region_2,0,m,other,2,28,,1,0,0,52
+14064,13693,Sales & Marketing,region_16,0,f,other,1,41,1.0,4,1,0,47
+14071,74503,Sales & Marketing,region_2,0,m,other,1,22,,1,0,0,56
+14076,68301,Sales & Marketing,region_22,0,m,other,2,26,,1,1,0,47
+14138,51123,Analytics,region_32,0,m,other,1,27,4.0,5,1,0,84
+14143,6626,Analytics,region_2,0,m,sourcing,1,26,,1,1,0,88
+14164,75169,R&D,region_2,0,m,sourcing,1,25,,1,0,0,82
+14180,54743,Sales & Marketing,region_9,0,m,other,1,28,1.0,2,0,0,43
+14193,20484,Sales & Marketing,region_22,0,m,sourcing,1,28,1.0,5,0,0,53
+14205,62526,Sales & Marketing,region_2,0,m,other,1,25,,1,0,0,48
+14219,77273,Sales & Marketing,region_2,0,f,other,1,23,,1,1,0,49
+14225,48587,Analytics,region_2,0,m,other,1,35,1.0,9,0,0,83
+14241,11386,Sales & Marketing,region_2,0,m,sourcing,1,41,1.0,3,1,1,50
+14242,55861,Sales & Marketing,region_2,0,m,sourcing,1,32,4.0,7,0,0,48
+14305,29862,Analytics,region_22,0,m,other,2,28,5.0,7,1,0,84
+14311,2379,Sales & Marketing,region_16,0,m,sourcing,1,23,,1,1,0,51
+14330,43870,Sales & Marketing,region_31,0,m,other,1,38,4.0,9,0,0,46
+14339,9169,Sales & Marketing,region_16,0,m,other,1,21,1.0,2,0,0,52
+14349,58030,Sales & Marketing,region_22,0,m,other,2,27,,1,0,1,51
+14362,2711,Sales & Marketing,region_19,0,m,other,1,42,3.0,5,0,0,55
+14375,67200,Sales & Marketing,region_16,0,m,other,1,22,,1,0,1,51
+14379,11161,Technology,region_7,0,m,other,1,33,4.0,7,0,0,77
+14389,7861,Finance,region_2,0,f,other,1,41,3.0,10,0,0,60
+14397,73691,Operations,region_32,0,f,other,1,27,4.0,3,0,0,61
+14407,61178,Sales & Marketing,region_21,0,m,other,2,28,2.0,2,0,0,50
+14410,2366,Sales & Marketing,region_2,0,m,sourcing,2,26,,1,0,0,49
+14445,7501,Operations,region_31,0,m,other,1,31,5.0,7,1,0,58
+14467,39355,Sales & Marketing,region_2,0,m,other,2,29,,1,0,0,48
+14549,34738,Analytics,region_22,0,m,sourcing,1,29,3.0,5,1,0,81
+14555,73094,Sales & Marketing,region_15,0,m,other,1,43,4.0,14,0,0,49
+14599,60272,Analytics,region_22,0,m,sourcing,1,31,3.0,3,0,0,85
+14609,64163,Analytics,region_7,0,m,sourcing,1,39,4.0,8,0,0,88
+14646,52953,Sales & Marketing,region_2,0,m,sourcing,1,45,1.0,5,0,0,46
+14678,77341,Sales & Marketing,region_26,0,m,other,2,31,3.0,4,0,0,52
+14691,16016,Sales & Marketing,region_28,0,m,other,1,34,3.0,2,0,0,46
+14710,40635,Sales & Marketing,region_22,0,m,sourcing,1,24,1.0,2,0,0,56
+14716,2680,Sales & Marketing,region_2,0,m,sourcing,1,25,,1,0,0,55
+14717,7363,Analytics,region_22,0,f,sourcing,1,28,5.0,5,1,0,76
+14718,18794,Sales & Marketing,region_27,0,m,sourcing,1,28,1.0,4,0,0,54
+14724,72242,Sales & Marketing,region_2,0,m,sourcing,1,23,3.0,2,0,0,55
+14753,67854,Analytics,region_9,0,m,other,1,34,5.0,7,0,0,85
+14769,47866,Sales & Marketing,region_31,0,m,sourcing,1,30,3.0,3,0,0,46
+14779,73497,Sales & Marketing,region_2,0,m,other,2,26,4.0,3,0,0,48
+14851,63223,Analytics,region_27,0,m,sourcing,1,30,5.0,6,1,0,87
+14859,75336,Sales & Marketing,region_2,0,m,other,1,23,,1,0,0,49
+14863,31370,Analytics,region_7,0,m,other,2,25,,1,1,0,85
+14905,59855,Sales & Marketing,region_2,0,m,other,1,48,5.0,9,1,0,49
+14932,13479,Sales & Marketing,region_2,0,m,other,1,38,4.0,3,1,0,48
+14945,74231,Operations,region_2,0,f,sourcing,1,29,3.0,2,0,0,59
+14966,7552,Sales & Marketing,region_2,0,m,other,2,30,,1,0,0,46
+14985,63899,R&D,region_22,0,m,other,1,29,5.0,2,1,0,87
+14990,3629,Operations,region_32,0,f,other,1,29,4.0,2,0,0,60
+15003,38845,Sales & Marketing,region_2,0,m,other,1,31,3.0,4,0,0,50
+15008,7055,Sales & Marketing,region_7,0,m,sourcing,1,23,,1,0,0,58
+15013,57972,Sales & Marketing,region_2,0,m,sourcing,2,22,,1,0,0,52
+15020,35592,Sales & Marketing,region_2,0,m,other,1,44,1.0,4,0,0,50
+15104,52973,Sales & Marketing,region_27,0,m,other,1,30,4.0,3,0,0,53
+15111,1433,Procurement,region_2,0,f,sourcing,3,40,3.0,4,1,0,71
+15128,49744,Sales & Marketing,region_22,0,m,other,1,27,5.0,2,1,0,49
+15131,66664,Sales & Marketing,region_13,0,m,other,1,30,3.0,5,0,0,47
+15132,76725,Sales & Marketing,region_2,0,m,other,1,25,5.0,2,1,0,50
+15185,18148,Procurement,region_17,0,f,sourcing,1,31,3.0,5,0,0,75
+15201,72520,Sales & Marketing,region_21,0,m,other,1,35,5.0,9,0,0,49
+15225,29429,Sales & Marketing,region_22,0,m,other,3,29,1.0,2,0,0,49
+15227,28131,Analytics,region_7,0,m,sourcing,1,26,3.0,5,0,0,80
+15269,49896,Sales & Marketing,region_32,0,m,other,1,27,4.0,2,0,0,51
+15284,38758,Sales & Marketing,region_22,0,m,other,1,26,3.0,3,1,0,51
+15300,3340,Sales & Marketing,region_15,0,m,sourcing,1,41,4.0,12,0,0,49
+15307,5544,Finance,region_2,0,f,other,1,51,3.0,7,0,0,58
+15315,36344,Sales & Marketing,region_11,0,m,other,1,33,3.0,5,0,0,51
+15317,46601,Sales & Marketing,region_32,0,m,sourcing,1,28,3.0,5,0,0,51
+15338,35027,Sales & Marketing,region_13,0,m,sourcing,1,30,3.0,4,0,0,49
+15349,74895,Sales & Marketing,region_2,0,m,sourcing,1,26,,1,0,0,47
+15395,24622,Sales & Marketing,region_9,0,m,sourcing,1,39,1.0,3,0,0,48
+15424,73321,Sales & Marketing,region_28,0,m,sourcing,1,34,3.0,8,0,0,45
+15454,51815,Analytics,region_22,0,f,other,1,28,,1,1,0,89
+15487,46214,R&D,region_22,0,m,sourcing,1,31,4.0,2,1,0,79
+15519,48255,Analytics,region_31,0,m,other,2,30,1.0,3,0,0,81
+15533,71281,Operations,region_2,0,f,other,1,37,5.0,9,1,0,61
+15550,36221,Analytics,region_22,0,f,other,1,28,5.0,4,0,0,84
+15584,41359,Operations,region_2,0,f,sourcing,1,50,5.0,2,1,0,57
+15598,40489,Sales & Marketing,region_7,0,m,sourcing,1,31,3.0,2,0,0,47
+15635,32198,Sales & Marketing,region_15,0,m,sourcing,1,25,,1,0,0,49
+15639,17845,Sales & Marketing,region_26,0,m,other,1,40,1.0,4,0,0,51
+15647,5206,Sales & Marketing,region_28,0,m,sourcing,1,31,2.0,5,0,0,48
+15692,41817,Sales & Marketing,region_32,0,m,other,1,25,5.0,2,0,0,49
+15702,43451,Analytics,region_2,0,m,sourcing,2,23,,1,0,0,76
+15710,71444,Operations,region_31,0,m,sourcing,1,28,1.0,4,0,0,66
+15757,2193,Sales & Marketing,region_31,0,m,other,1,24,,1,1,0,52
+15852,61463,Sales & Marketing,region_7,0,m,other,2,31,3.0,6,0,0,54
+15877,2662,Analytics,region_26,0,m,sourcing,1,27,,1,1,0,84
+15883,45929,Sales & Marketing,region_2,0,m,sourcing,1,41,5.0,7,0,0,48
+15891,11165,Technology,region_22,0,m,sourcing,1,27,5.0,2,1,0,81
+15895,66759,Sales & Marketing,region_19,0,m,other,1,33,3.0,7,1,0,49
+15898,22626,Sales & Marketing,region_15,0,f,other,1,31,1.0,3,1,0,54
+15905,39740,Operations,region_15,0,f,other,1,33,5.0,7,1,0,61
+15943,23761,Operations,region_2,0,m,other,1,34,3.0,8,0,0,59
+15950,53989,Analytics,region_22,0,m,other,1,24,,1,0,0,86
+15978,46858,Technology,region_2,0,m,sourcing,2,31,3.0,4,0,0,79
+16002,27219,Technology,region_2,0,m,other,1,30,3.0,7,0,0,85
+16022,62305,Analytics,region_2,0,m,sourcing,1,40,4.0,4,0,0,85
+16044,22375,Sales & Marketing,region_28,0,m,other,1,28,,1,0,0,50
+16094,27436,Sales & Marketing,region_2,0,m,other,1,40,5.0,7,0,1,65
+16100,10055,Sales & Marketing,region_2,0,m,other,1,27,1.0,4,0,0,49
+16104,75229,Sales & Marketing,region_6,0,m,other,1,25,3.0,2,0,0,48
+16108,25281,Sales & Marketing,region_11,0,m,other,1,23,,1,0,0,47
+16113,46340,Operations,region_2,0,f,sourcing,1,54,5.0,7,1,0,54
+16160,45584,Sales & Marketing,region_7,0,m,other,1,32,3.0,5,1,0,47
+16186,16583,Sales & Marketing,region_3,0,m,sourcing,1,24,,1,0,0,53
+16228,37430,Sales & Marketing,region_7,0,m,sourcing,1,32,1.0,7,0,0,52
+16233,46013,Technology,region_2,0,m,other,1,36,3.0,6,0,0,81
+16238,6340,Sales & Marketing,region_22,0,f,sourcing,2,29,1.0,6,0,0,47
+16279,66638,Sales & Marketing,region_7,0,m,other,1,34,3.0,2,0,0,52
+16296,71135,Sales & Marketing,region_2,0,m,sourcing,1,42,5.0,5,0,0,46
+16307,70970,Analytics,region_22,0,m,other,1,27,3.0,2,0,0,82
+16354,12294,Procurement,region_2,0,m,sourcing,3,35,3.0,5,1,0,64
+16374,35151,Analytics,region_32,0,m,other,1,28,,1,0,0,86
+16391,17541,Sales & Marketing,region_26,0,m,other,1,40,3.0,9,0,0,46
+16421,51871,Analytics,region_32,0,m,other,2,27,,1,0,0,85
+16424,47870,Sales & Marketing,region_28,0,m,other,1,33,3.0,6,1,0,49
+16466,65644,Analytics,region_2,0,m,other,2,40,3.0,12,0,0,85
+16540,76616,Operations,region_15,0,m,sourcing,1,30,3.0,6,0,0,62
+16544,35037,Technology,region_11,0,m,sourcing,1,31,2.0,4,0,0,77
+16551,32782,Sales & Marketing,region_13,0,m,other,1,24,,1,0,0,48
+16673,76808,Sales & Marketing,region_14,0,m,other,2,25,5.0,4,1,0,54
+16708,8157,Sales & Marketing,region_25,0,m,other,1,27,5.0,6,0,0,52
+16721,1951,Sales & Marketing,region_7,0,m,other,1,29,,1,1,0,53
+16724,75403,Sales & Marketing,region_27,0,m,other,1,34,3.0,8,0,0,48
+16738,35325,Sales & Marketing,region_31,0,m,other,1,32,2.0,3,0,0,48
+16751,29420,Technology,region_16,0,f,sourcing,1,35,5.0,2,1,0,79
+16806,77291,Sales & Marketing,region_2,0,m,sourcing,1,32,3.0,3,0,0,46
+16891,42366,Sales & Marketing,region_23,0,m,other,1,30,,1,0,0,48
+16894,32880,Sales & Marketing,region_28,0,m,other,1,32,3.0,6,0,0,56
+16896,7473,Analytics,region_22,0,m,other,2,27,2.0,2,1,0,85
+16907,64934,Sales & Marketing,region_2,0,f,sourcing,1,24,,1,0,1,53
+16912,47912,Sales & Marketing,region_15,0,m,other,1,35,4.0,7,0,0,49
+16960,76344,Operations,region_22,0,m,other,1,28,5.0,5,0,0,62
+17025,67224,Sales & Marketing,region_2,0,f,other,2,22,,1,0,0,51
+17044,45109,Analytics,region_2,0,m,sourcing,3,25,,1,0,0,86
+17057,48398,Procurement,region_2,0,f,sourcing,1,30,2.0,2,0,0,67
+17068,74089,Analytics,region_22,0,m,sourcing,1,28,3.0,1,1,0,78
+17083,18233,R&D,region_2,0,m,sourcing,1,28,4.0,3,1,0,86
+17087,46540,Sales & Marketing,region_2,0,m,other,1,31,5.0,7,1,0,45
+17101,17269,Procurement,region_2,0,f,other,2,40,3.0,8,0,0,68
+17131,29149,Operations,region_11,0,f,sourcing,1,30,5.0,7,1,0,57
+17176,29302,Sales & Marketing,region_2,0,f,sourcing,1,23,,1,0,0,50
+17183,20280,Analytics,region_2,0,m,sourcing,1,35,2.0,6,0,0,87
+17189,57059,Analytics,region_22,0,m,other,2,26,,1,1,0,82
+17196,39403,Analytics,region_22,0,m,sourcing,3,27,3.0,2,1,0,87
+17244,30977,Analytics,region_22,0,m,other,1,28,4.0,2,1,0,86
+17246,44793,Sales & Marketing,region_27,0,m,other,1,31,1.0,4,0,0,51
+17323,68703,Sales & Marketing,region_2,0,m,other,1,32,4.0,5,1,0,47
+17334,72527,Analytics,region_32,0,m,sourcing,1,26,3.0,1,1,0,81
+17348,47420,Sales & Marketing,region_2,0,m,sourcing,1,28,2.0,7,0,0,48
+17354,49841,Analytics,region_22,0,m,sourcing,1,28,3.0,6,0,0,90
+17373,42917,Sales & Marketing,region_14,0,m,other,1,24,,1,0,0,50
+17398,18687,Sales & Marketing,region_22,0,m,sourcing,1,30,4.0,3,1,0,54
+17438,31108,Operations,region_2,0,f,sourcing,1,53,4.0,16,0,0,56
+17447,68297,Technology,region_2,0,m,other,1,32,3.0,8,0,0,79
+17448,71192,Sales & Marketing,region_2,0,m,other,3,35,1.0,6,0,0,49
+17463,22454,Procurement,region_2,0,m,sourcing,1,30,3.0,3,0,0,64
+17470,22377,Sales & Marketing,region_2,0,m,other,2,24,2.0,2,0,0,48
+17565,26892,Sales & Marketing,region_9,0,m,sourcing,1,26,4.0,3,1,0,47
+17610,1853,Analytics,region_22,0,f,other,2,26,3.0,4,1,0,86
+17620,44807,Analytics,region_22,0,m,other,1,30,3.0,3,0,0,89
+17647,58006,Sales & Marketing,region_2,0,m,sourcing,1,26,4.0,2,0,0,48
+17650,13421,Sales & Marketing,region_28,0,m,other,2,29,1.0,2,1,0,48
+17740,39275,Sales & Marketing,region_2,0,m,sourcing,1,50,3.0,5,0,0,45
+17781,15635,Sales & Marketing,region_2,0,m,other,1,34,2.0,7,0,0,49
+17794,37917,Sales & Marketing,region_2,0,m,sourcing,1,24,,1,0,0,48
+17795,74337,Sales & Marketing,region_32,0,m,other,1,27,,1,0,0,50
+17814,17035,Analytics,region_2,0,f,other,1,25,3.0,3,0,0,81
+17883,35254,Sales & Marketing,region_7,0,m,other,1,39,5.0,13,1,0,48
+17885,10262,Operations,region_2,0,f,sourcing,1,35,4.0,3,1,0,54
+17915,38023,Sales & Marketing,region_16,0,m,other,1,31,3.0,9,0,0,50
+17918,33903,Analytics,region_15,0,m,other,1,32,3.0,5,1,1,83
+17922,71843,Sales & Marketing,region_31,0,m,other,1,30,1.0,7,0,0,47
+17926,10490,Sales & Marketing,region_15,0,m,sourcing,2,46,1.0,6,0,0,51
+17978,66341,Operations,region_22,0,m,sourcing,1,29,,1,0,0,57
+18002,53316,Sales & Marketing,region_2,0,m,sourcing,1,46,4.0,3,0,0,50
+18009,18767,Sales & Marketing,region_28,0,m,other,1,25,3.0,2,1,0,54
+18027,24424,Analytics,region_26,0,m,other,1,31,5.0,4,0,0,89
+18046,26058,Sales & Marketing,region_13,0,m,other,1,31,3.0,2,0,0,45
+18059,48145,Sales & Marketing,region_15,0,m,sourcing,1,36,2.0,10,0,0,51
+18086,8580,Sales & Marketing,region_2,0,m,other,1,21,,1,0,0,51
+18094,63055,Sales & Marketing,region_31,0,m,other,1,33,3.0,6,0,0,52
+18141,7969,Analytics,region_2,0,m,sourcing,2,28,3.0,2,0,0,85
+18162,59003,Sales & Marketing,region_2,0,f,other,2,45,3.0,18,0,0,57
+18177,78145,Procurement,region_2,0,f,sourcing,1,42,4.0,2,0,0,65
+18183,18686,Sales & Marketing,region_16,0,m,other,1,20,3.0,2,0,0,44
+18275,30238,Sales & Marketing,region_7,0,m,other,1,31,3.0,5,0,0,47
+18285,18850,Technology,region_7,0,m,other,1,33,3.0,10,0,0,77
+18288,76643,Analytics,region_31,0,f,other,1,27,,1,1,0,87
+18297,178,Analytics,region_26,0,m,sourcing,1,27,4.0,4,0,0,86
+18298,49046,Sales & Marketing,region_15,0,m,sourcing,2,34,3.0,9,0,0,49
+18373,30784,Sales & Marketing,region_2,0,f,other,1,55,1.0,25,0,0,49
+18386,60589,Analytics,region_22,0,m,sourcing,2,29,3.0,6,0,0,89
+18434,48668,Sales & Marketing,region_28,0,m,other,1,31,,1,1,0,48
+18461,11216,Sales & Marketing,region_2,0,m,other,1,22,5.0,2,0,0,47
+18473,2069,Procurement,region_2,0,m,sourcing,2,43,3.0,7,1,0,74
+18484,65131,Procurement,region_2,0,m,other,2,34,4.0,3,0,0,72
+18494,72309,Sales & Marketing,region_2,0,m,sourcing,1,45,3.0,5,0,0,45
+18507,8869,Analytics,region_2,0,m,sourcing,1,39,5.0,6,1,0,86
+18575,48541,Sales & Marketing,region_2,0,m,other,1,24,,1,0,0,51
+18580,20311,Procurement,region_2,0,m,other,1,44,1.0,15,0,0,69
+18595,15196,Sales & Marketing,region_2,0,m,other,2,20,,1,0,0,50
+18603,77642,Technology,region_2,0,m,sourcing,1,35,1.0,9,0,0,79
+18604,41786,Procurement,region_2,0,m,sourcing,2,36,3.0,10,0,0,72
+18607,58843,Analytics,region_2,0,m,other,2,33,4.0,9,0,0,80
+18610,53209,Sales & Marketing,region_14,0,m,other,1,32,4.0,4,0,0,48
+18611,3531,Operations,region_15,0,m,other,1,32,3.0,4,0,0,58
+18645,52173,Sales & Marketing,region_7,0,m,sourcing,1,23,5.0,2,1,0,47
+18646,13353,Sales & Marketing,region_2,0,m,other,1,29,1.0,2,0,1,48
+18659,60633,Sales & Marketing,region_15,0,m,other,1,39,5.0,5,0,0,45
+18686,45162,Sales & Marketing,region_2,0,f,other,1,25,,1,1,0,51
+18741,9026,Sales & Marketing,region_15,0,m,sourcing,1,34,3.0,3,0,0,48
+18755,74578,Sales & Marketing,region_31,0,m,other,1,25,1.0,3,0,0,50
+18756,76773,Sales & Marketing,region_25,0,m,sourcing,1,25,3.0,1,1,0,46
+18769,5474,Sales & Marketing,region_2,0,m,sourcing,1,35,3.0,4,0,0,45
+18803,72237,Analytics,region_7,0,m,sourcing,1,26,5.0,4,1,0,87
+18814,57127,Sales & Marketing,region_25,0,m,other,1,27,4.0,2,0,0,51
+18822,70779,Analytics,region_22,0,m,other,1,29,3.0,3,0,0,80
+18836,47597,R&D,region_2,0,m,other,2,26,,1,1,0,84
+18841,40294,Analytics,region_31,0,f,sourcing,1,27,3.0,4,0,0,85
+18889,55641,Sales & Marketing,region_15,0,m,sourcing,1,27,4.0,3,0,0,50
+18929,67807,Sales & Marketing,region_9,0,m,sourcing,1,27,3.0,1,0,0,50
+18941,5984,R&D,region_2,0,m,other,1,24,3.0,2,0,0,86
+18958,4228,Operations,region_7,0,m,sourcing,1,33,3.0,5,0,0,57
+18974,10968,Procurement,region_2,0,m,other,1,41,3.0,2,0,0,68
+18987,8533,Sales & Marketing,region_15,0,m,other,1,40,5.0,3,0,0,51
+18990,2000,Sales & Marketing,region_7,0,m,other,1,35,1.0,4,0,0,46
+19008,61914,Analytics,region_32,0,m,other,1,27,,1,0,0,86
+19043,14759,Sales & Marketing,region_2,0,m,sourcing,1,23,1.0,2,0,0,49
+19097,33168,Analytics,region_32,0,m,sourcing,1,31,5.0,6,0,0,83
+19105,65535,Analytics,region_29,0,m,other,1,27,5.0,4,1,0,83
+19138,45618,Sales & Marketing,region_7,0,m,other,1,27,4.0,2,0,0,44
+19156,70442,Operations,region_32,0,m,other,3,28,3.0,1,0,0,57
+19183,51868,Procurement,region_2,0,m,sourcing,1,42,3.0,2,1,0,69
+19186,5411,Sales & Marketing,region_31,0,m,sourcing,1,24,,1,0,0,49
+19198,29050,Sales & Marketing,region_28,0,m,sourcing,1,31,1.0,6,0,0,52
+19226,16692,Sales & Marketing,region_2,0,f,other,1,25,1.0,4,0,0,52
+19231,60379,Sales & Marketing,region_31,0,m,other,1,22,1.0,2,0,0,49
+19265,47937,Sales & Marketing,region_2,0,m,sourcing,1,25,,1,1,0,51
+19282,24944,Operations,region_2,0,f,sourcing,1,58,5.0,18,1,0,56
+19323,11121,Technology,region_2,0,m,other,1,23,3.0,2,0,0,80
+19346,55227,Sales & Marketing,region_13,0,m,sourcing,1,21,3.0,1,0,0,49
+19357,17156,Sales & Marketing,region_15,0,m,other,1,32,5.0,2,0,0,53
+19384,56260,Sales & Marketing,region_15,0,f,other,1,37,1.0,2,1,0,53
+19389,68501,Sales & Marketing,region_23,0,m,sourcing,1,31,3.0,2,0,0,50
+19393,21089,Sales & Marketing,region_28,0,m,sourcing,1,33,3.0,5,0,0,52
+19405,2593,Technology,region_7,0,m,other,1,24,3.0,1,1,0,79
+19414,21879,Sales & Marketing,region_2,0,f,sourcing,1,60,1.0,18,1,0,53
+19421,40992,Sales & Marketing,region_22,0,m,other,4,25,,1,0,0,47
+19456,7395,Sales & Marketing,region_1,0,m,other,1,31,4.0,2,1,0,93
+19461,35852,Analytics,region_7,0,m,sourcing,1,39,3.0,4,0,0,83
+19474,36049,Operations,region_15,0,f,sourcing,1,37,3.0,10,0,0,61
+19497,52970,Sales & Marketing,region_22,0,m,other,2,29,,1,0,0,52
+19509,76542,Sales & Marketing,region_22,0,m,sourcing,1,29,1.0,4,0,0,48
+19635,48818,Sales & Marketing,region_2,0,m,other,1,48,1.0,23,0,0,54
+19706,55579,Sales & Marketing,region_2,0,m,sourcing,1,25,4.0,2,1,0,47
+19715,68315,Procurement,region_2,0,f,other,1,58,3.0,7,0,0,67
+19754,64646,Sales & Marketing,region_2,0,m,referred,1,25,5.0,2,1,0,54
+19764,20042,Sales & Marketing,region_2,0,f,sourcing,1,31,3.0,6,0,0,53
+19786,55262,Sales & Marketing,region_9,0,m,sourcing,1,30,2.0,4,0,0,49
+19811,50444,Operations,region_15,0,m,sourcing,1,31,3.0,3,0,0,65
+19828,63835,Analytics,region_2,0,m,other,3,25,,1,0,0,84
+19883,51192,Legal,region_22,0,m,other,1,29,5.0,2,0,0,60
+19978,16797,Technology,region_2,0,m,sourcing,1,33,3.0,2,0,0,83
+19979,38546,Sales & Marketing,region_2,0,m,sourcing,2,22,,1,0,0,48
+19982,7705,Operations,region_15,0,f,other,1,37,3.0,7,1,0,53
+19983,16527,Sales & Marketing,region_7,0,m,other,1,34,1.0,10,0,0,50
+19994,25589,Finance,region_2,0,m,sourcing,1,43,3.0,17,0,0,57
+19998,60413,Sales & Marketing,region_25,0,m,other,1,30,3.0,5,0,0,53
+20009,45519,Sales & Marketing,region_25,0,m,other,1,25,5.0,3,1,0,56
+20065,76454,Sales & Marketing,region_22,0,m,other,1,29,5.0,3,1,0,49
+20093,57147,Sales & Marketing,region_22,0,m,other,1,29,3.0,5,1,0,51
+20101,32228,Sales & Marketing,region_7,0,m,other,1,32,5.0,2,0,0,46
+20128,31679,Sales & Marketing,region_9,0,m,sourcing,2,29,1.0,6,0,0,52
+20219,17806,Analytics,region_22,0,m,other,2,28,5.0,5,0,0,83
+20239,19721,Analytics,region_25,0,m,sourcing,2,25,5.0,3,1,0,78
+20296,47200,Sales & Marketing,region_13,0,m,other,1,23,1.0,2,0,0,50
+20321,27814,Sales & Marketing,region_7,0,m,sourcing,1,30,3.0,3,0,0,46
+20347,24692,Operations,region_2,0,f,other,2,35,4.0,8,0,0,55
+20373,74653,Operations,region_2,0,f,other,1,59,3.0,6,0,0,59
+20381,73348,Operations,region_2,0,m,other,2,39,5.0,9,1,0,60
+20386,22724,Analytics,region_2,0,m,other,1,27,3.0,3,0,0,86
+20389,18065,Sales & Marketing,region_2,0,m,other,2,21,2.0,2,0,0,54
+20400,27271,Sales & Marketing,region_2,0,m,other,1,24,5.0,3,1,0,48
+20431,29282,Sales & Marketing,region_7,0,m,other,1,21,4.0,2,1,0,66
+20432,53996,Analytics,region_2,0,m,sourcing,1,23,,1,0,0,83
+20449,66181,Operations,region_15,0,m,other,1,32,3.0,7,1,0,60
+20462,6214,Sales & Marketing,region_26,0,m,other,1,32,2.0,5,0,0,43
+20475,51882,Sales & Marketing,region_2,0,m,other,1,39,3.0,10,0,0,49
+20493,47599,Operations,region_32,0,m,sourcing,1,31,5.0,2,1,0,59
+20564,60292,Analytics,region_22,0,m,sourcing,1,26,,1,0,0,86
+20579,55646,Sales & Marketing,region_15,0,f,other,1,29,3.0,3,0,0,50
+20630,70372,Analytics,region_26,0,m,sourcing,1,29,3.0,2,0,0,80
+20649,15138,Sales & Marketing,region_22,0,m,sourcing,2,27,3.0,2,0,0,50
+20650,14780,Sales & Marketing,region_23,0,m,other,1,39,3.0,8,0,0,49
+20669,62052,Analytics,region_2,0,m,other,1,40,5.0,2,1,0,85
+20737,10884,Finance,region_2,0,f,other,1,33,5.0,3,1,0,58
+20757,45225,Sales & Marketing,region_2,0,m,sourcing,1,38,1.0,11,0,0,50
+20758,4562,Sales & Marketing,region_31,0,m,sourcing,1,26,,1,0,0,53
+20759,72718,Sales & Marketing,region_7,0,m,sourcing,1,23,1.0,2,1,0,49
+20777,18268,Technology,region_2,0,f,sourcing,1,28,1.0,3,0,0,77
+20778,72642,Analytics,region_22,0,m,other,1,30,2.0,6,1,0,86
+20818,60936,Sales & Marketing,region_26,0,m,other,1,25,3.0,4,0,0,50
+20840,859,Technology,region_2,0,f,other,1,30,3.0,2,0,0,76
+20863,13274,Sales & Marketing,region_13,0,m,sourcing,2,23,,1,0,0,51
+20875,23351,Sales & Marketing,region_2,0,m,other,1,34,5.0,10,1,0,48
+20903,32597,Sales & Marketing,region_7,0,m,sourcing,1,26,3.0,3,0,0,47
+20918,22436,Analytics,region_22,0,m,other,1,26,3.0,2,1,0,82
+20926,23108,Procurement,region_2,0,f,other,1,31,5.0,5,1,0,65
+20935,1107,HR,region_2,0,m,other,1,30,4.0,3,1,0,50
+21002,40304,Analytics,region_7,0,m,other,3,26,5.0,4,1,0,86
+21057,20688,Analytics,region_22,0,f,sourcing,1,28,4.0,4,1,0,81
+21066,10549,Technology,region_27,0,m,other,1,30,1.0,5,0,0,77
+21209,69656,Sales & Marketing,region_32,0,m,other,1,26,3.0,3,0,0,50
+21225,2813,Analytics,region_7,0,m,other,1,24,,1,0,0,87
+21233,13270,Operations,region_15,0,m,other,1,42,3.0,11,0,0,64
+21277,76416,Sales & Marketing,region_16,0,m,other,1,26,3.0,5,0,0,50
+21449,28468,Sales & Marketing,region_2,0,m,other,1,51,4.0,12,0,0,53
+21463,24251,Sales & Marketing,region_2,0,m,sourcing,1,41,3.0,12,1,0,96
+21467,73342,Sales & Marketing,region_4,0,m,other,1,38,4.0,6,0,0,51
+21524,27203,Operations,region_15,0,m,sourcing,1,39,5.0,14,1,0,64
+21535,51219,Sales & Marketing,region_2,0,m,other,1,31,1.0,4,0,0,50
+21572,18925,Sales & Marketing,region_7,0,m,sourcing,1,28,3.0,5,1,0,54
+21723,64662,Sales & Marketing,region_26,0,m,other,1,26,1.0,4,0,0,55
+21757,54478,Analytics,region_22,0,m,other,2,27,2.0,4,1,0,83
+21806,40037,Sales & Marketing,region_2,0,m,other,1,29,5.0,6,0,0,54
+21825,38043,Sales & Marketing,region_26,0,m,other,1,32,3.0,3,0,0,48
+21857,3027,Sales & Marketing,region_7,0,m,other,1,22,,1,0,0,51
+21895,64539,Analytics,region_22,0,f,sourcing,1,27,3.0,7,0,0,87
+21917,23280,HR,region_2,0,f,other,1,24,,1,0,0,48
+21936,43452,Operations,region_15,0,f,other,1,34,5.0,8,1,0,58
+21963,42664,Sales & Marketing,region_15,0,m,sourcing,1,24,3.0,2,1,1,53
+22003,51860,Sales & Marketing,region_16,0,m,other,2,25,3.0,2,0,0,49
+22023,54454,Sales & Marketing,region_2,0,m,sourcing,1,39,3.0,3,0,0,51
+22028,66663,Sales & Marketing,region_22,0,f,other,2,26,3.0,3,0,0,50
+22047,47769,Analytics,region_7,0,m,other,1,28,,1,0,0,87
+22062,36855,Sales & Marketing,region_15,0,m,other,1,31,1.0,3,0,0,48
+22068,57334,Sales & Marketing,region_15,0,m,other,1,30,4.0,2,0,0,51
+22076,29564,Analytics,region_2,0,m,other,2,37,3.0,10,0,0,84
+22085,31573,Sales & Marketing,region_15,0,m,other,1,46,1.0,19,0,0,53
+22093,45196,Sales & Marketing,region_2,0,m,other,1,50,5.0,15,0,0,52
+22102,38113,Operations,region_32,0,f,sourcing,1,28,3.0,7,0,0,59
+22130,21031,Sales & Marketing,region_16,0,m,other,1,34,2.0,7,0,0,48
+22133,38442,Sales & Marketing,region_15,0,m,other,1,34,1.0,2,1,0,52
+22147,24222,Sales & Marketing,region_7,0,m,sourcing,1,26,4.0,3,0,0,53
+22151,67285,Sales & Marketing,region_2,0,m,other,1,24,3.0,2,0,0,48
+22206,17684,Sales & Marketing,region_22,0,m,other,1,25,,1,1,0,55
+22223,38837,Sales & Marketing,region_9,0,m,other,1,35,3.0,10,0,0,45
+22227,97,Analytics,region_22,0,m,other,1,31,4.0,2,0,0,87
+22237,14094,Sales & Marketing,region_31,0,m,sourcing,1,34,3.0,5,0,0,45
+22267,70922,Sales & Marketing,region_31,0,m,sourcing,1,29,,1,0,0,52
+22360,67712,Sales & Marketing,region_28,0,m,other,1,33,1.0,5,0,0,48
+22361,18036,Analytics,region_2,0,m,other,1,37,5.0,5,1,0,80
+22365,57720,Sales & Marketing,region_22,0,f,other,1,29,4.0,5,0,0,43
+22381,53500,Technology,region_2,0,m,other,1,26,4.0,3,0,0,79
+22386,55826,Sales & Marketing,region_2,0,m,sourcing,1,37,3.0,5,0,0,48
+22401,8191,Sales & Marketing,region_13,0,m,sourcing,1,22,3.0,2,0,0,48
+22408,58915,Operations,region_2,0,m,sourcing,1,25,3.0,2,0,0,57
+22449,20373,HR,region_2,0,m,other,1,31,2.0,3,0,0,46
+22460,19301,Sales & Marketing,region_22,0,m,sourcing,1,30,5.0,6,1,0,48
+22477,76459,Sales & Marketing,region_22,0,m,sourcing,1,21,,1,0,0,49
+22517,60480,Sales & Marketing,region_16,0,f,other,1,24,1.0,2,0,0,51
+22521,22664,Operations,region_2,0,f,other,1,31,4.0,4,0,0,57
+22526,78032,Sales & Marketing,region_2,0,m,sourcing,1,29,5.0,5,1,0,48
+22529,78023,Sales & Marketing,region_2,0,m,sourcing,1,25,3.0,3,1,0,50
+22602,31127,Sales & Marketing,region_26,0,m,sourcing,1,40,3.0,2,0,0,51
+22612,40106,Sales & Marketing,region_7,0,m,sourcing,1,24,5.0,1,1,0,50
+22623,45467,Operations,region_2,0,f,sourcing,2,36,3.0,7,0,0,60
+22625,75477,Sales & Marketing,region_2,0,f,sourcing,1,22,1.0,2,0,0,51
+22630,32219,Sales & Marketing,region_2,0,m,sourcing,1,23,3.0,2,1,0,53
+22650,68601,Sales & Marketing,region_28,0,m,other,1,29,3.0,3,1,0,50
+22654,76512,Operations,region_32,0,m,other,1,32,2.0,3,0,0,59
+22667,28015,Sales & Marketing,region_7,0,m,sourcing,1,27,3.0,3,0,0,48
+22683,43219,Sales & Marketing,region_7,0,m,sourcing,1,34,4.0,6,0,0,49
+22699,76944,Sales & Marketing,region_2,0,m,sourcing,1,25,3.0,3,0,0,64
+22707,23417,Sales & Marketing,region_25,0,m,sourcing,1,30,4.0,3,1,0,50
+22728,21908,Operations,region_2,0,f,other,1,35,4.0,9,1,0,57
+22744,18186,Sales & Marketing,region_26,0,f,other,1,24,,1,0,0,47
+22762,29588,Sales & Marketing,region_11,0,m,sourcing,1,38,2.0,9,0,0,48
+22783,73726,Analytics,region_22,0,f,sourcing,1,29,3.0,8,0,0,88
+22798,1535,Sales & Marketing,region_23,0,m,sourcing,2,41,3.0,11,0,0,50
+22801,48330,Sales & Marketing,region_27,0,m,sourcing,1,32,3.0,8,0,0,43
+22829,34005,Sales & Marketing,region_32,0,f,other,1,29,2.0,7,1,0,53
+22889,18977,Sales & Marketing,region_19,0,m,sourcing,1,30,3.0,6,0,0,45
+22929,41066,Sales & Marketing,region_28,0,m,sourcing,1,25,3.0,2,1,0,45
+23003,3025,Sales & Marketing,region_27,0,m,other,1,23,,1,0,0,49
+23009,21762,Sales & Marketing,region_2,0,f,sourcing,1,21,1.0,2,0,0,48
+23010,50880,Analytics,region_22,0,m,other,1,29,,1,0,0,84
+23013,29131,Sales & Marketing,region_28,0,m,sourcing,1,32,4.0,2,0,0,46
+23046,15216,Sales & Marketing,region_16,0,m,other,1,36,2.0,5,0,0,52
+23049,37264,Operations,region_7,0,m,sourcing,1,33,5.0,2,1,0,64
+23051,35871,HR,region_2,0,m,other,1,34,,1,0,0,49
+23068,50530,Sales & Marketing,region_2,0,m,other,2,22,1.0,2,0,0,41
+23078,58766,Analytics,region_22,0,m,other,1,29,,1,1,1,80
+23087,32364,Procurement,region_17,0,f,other,1,31,5.0,6,0,0,67
+23092,57200,Sales & Marketing,region_2,0,m,sourcing,1,50,5.0,3,0,0,50
+23095,59344,Sales & Marketing,region_31,0,m,sourcing,1,29,3.0,2,0,0,48
+23120,53193,Sales & Marketing,region_22,0,m,sourcing,3,25,3.0,3,0,0,51
+23128,19115,R&D,region_2,0,m,sourcing,2,27,3.0,2,0,0,83
+23163,65060,Sales & Marketing,region_13,0,m,other,1,32,4.0,4,0,0,50
+23180,2327,Analytics,region_22,0,m,sourcing,1,27,3.0,4,0,0,88
+23203,43779,Analytics,region_26,0,m,other,1,27,4.0,2,0,0,86
+23270,68029,Sales & Marketing,region_2,0,f,other,1,26,5.0,2,0,0,50
+23272,18634,Sales & Marketing,region_7,0,m,sourcing,2,24,,1,0,0,49
+23314,48517,Sales & Marketing,region_22,0,m,other,1,21,3.0,1,0,0,48
+23328,25742,Sales & Marketing,region_15,0,m,other,2,27,3.0,2,0,0,47
+23337,15393,Sales & Marketing,region_7,0,m,other,1,43,1.0,15,0,0,49
+23353,31908,Sales & Marketing,region_2,0,m,other,1,27,5.0,1,0,0,50
+23364,26679,Sales & Marketing,region_31,0,m,other,1,31,3.0,6,0,0,52
+23370,41751,Operations,region_2,0,f,sourcing,1,38,4.0,7,1,0,61
+23403,20441,Sales & Marketing,region_9,0,m,other,1,30,3.0,2,0,0,50
+23415,14036,Sales & Marketing,region_7,0,m,other,6,26,3.0,3,0,0,48
+23424,5890,Analytics,region_15,0,m,sourcing,1,34,3.0,5,0,0,87
+23452,65429,Analytics,region_15,0,m,sourcing,1,30,2.0,7,0,0,83
+23459,30477,Sales & Marketing,region_22,0,m,other,1,31,2.0,7,0,0,52
+23482,27284,Sales & Marketing,region_2,0,m,sourcing,2,44,4.0,4,0,0,49
