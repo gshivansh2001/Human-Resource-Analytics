@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>ML API</title>
+	<link href = 'https://fonts.googleapis.com/css?family=Pacifico' rel = 'stylesheet' type = 'text/css'>
+<link href = 'https://fonts.googleapis.com/css?family=Arimo' rel = 'stylesheet' type = 'text/css'>
+<link href = 'https://fonts.googleapis.com/css?family=Hind:300' rel = 'stylesheet' type = 'text/css'>
+<link href = 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel = 'stylesheet' type = 'text/css'>
+
+</head>
+
+<body>
+	<div class = "login">
+		<h1> Human Resource Analytics</h1>
+		<h3> Predicting if a person will get promoted or not</h3>
+
+	<form action="{{ url_for('predict')}}" method = "post">
+		<p> Select your department </p>
+		<input type="text" name = "Department" placeholder = "department" required = "required" />
+
+		<p> Select your region </p>
+		<input type="text" name = "Region" placeholder = "region" required = "required" />
+
+		<p> Select you education level</p>
+		<input type="text" name = "education" placeholder = "education" required = "required">
+		
+		<p> Select you gender</p>
+		<input type="text" name = "gender" placeholder = "gender" required = "required" />
+		
+		<p> Select you recruitment process</p>
+		<input type="text" name = "recruitment" placeholder = "recruitment" required = "required" />
+		
+		<p> Input your number of trainings</p>
+		<input type="text" name = "training" placeholder = "training" required = "required" />
+		
+		<p> Input your age</p>
+		<input type="text" name = "age" placeholder = "age" required = "required" />
+		
+		<p> Your previous year rating</p>
+		<input type="text" name = "prev_rating" placeholder = "prev_rating" required = "required" />	
+		
+		<p> Enter the length of your service</p>
+		<input type="text" name = "length of service" placeholder = "lservice" required = "required" />
+		
+		<p> Is your KPI> 80%? </p>
+		<input type="text" name = "kpi" placeholder = "KPI Required > 80%?" required = "required" />
+		
+		<p> Have you recieved any awards? </p>
+		<input type="text" name = "awards" placeholder = "Any Awards won?" required = "required" />
+		
+		<p> Enter your Average Training score </p>
+		<input type="text" name = "avg_train_score" placeholder = "Average training score" required = "required" />
+		
+		<button type="submit" class="btn- btn-primary btn-block btn-large"> Predict</button>
+	</form>
+
+	<br>
+	<br>
+	{{ prediction_text }}
+
+</div>
+
+</body>
+</html>
